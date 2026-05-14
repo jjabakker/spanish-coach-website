@@ -5,7 +5,7 @@ The Select Tenses screen lets you choose which tenses are included in all study 
 ---
 
 <div class="screenshot-annotated">
-![Select Tenses](../assets/images/guide/select_tenses.png)
+<img src="../assets/images/guide/select_tenses.png" alt="Select Tenses">
 </div>
 
 1. **Group info button** — tap the `?` next to a group heading to read a full grammar explanation of that tense group (opens a sheet in your language)

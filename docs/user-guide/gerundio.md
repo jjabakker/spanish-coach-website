@@ -5,7 +5,7 @@ The Gerundio drill trains you to recall the present-participle form of Spanish v
 ---
 
 <div class="screenshot-annotated">
-![Gerundio Drill](../assets/images/guide/gerundio.png)
+<img src="../assets/images/guide/gerundio.png" alt="Gerundio Drill">
 </div>
 
 1. **Progress bar** — advances as you work through the deck; the counter shows your position (e.g. 3 / 24)

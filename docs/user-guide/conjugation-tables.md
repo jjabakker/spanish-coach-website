@@ -7,7 +7,7 @@ The Conjugation Tables browser lets you look up the full conjugation of any verb
 ## Verb list
 
 <div class="screenshot-annotated">
-![Conjugation Tables – Verb List](../assets/images/guide/conj_tables.png)
+<img src="../assets/images/guide/conj_tables.png" alt="Conjugation Tables – Verb List">
 </div>
 
 1. **Search bar** — type any Spanish verb to filter the list instantly (diacritic-insensitive)
@@ -19,7 +19,7 @@ The Conjugation Tables browser lets you look up the full conjugation of any verb
 ## Full conjugation table
 
 <div class="screenshot-annotated">
-![Conjugation Tables – Tener](../assets/images/guide/conj_tener.png)
+<img src="../assets/images/guide/conj_tener.png" alt="Conjugation Tables – Tener">
 </div>
 
 1. **Verb header** — shows the infinitive and its English translation
@@ -32,7 +32,7 @@ The Conjugation Tables browser lets you look up the full conjugation of any verb
 ## Tense detail
 
 <div class="screenshot-annotated">
-![Conjugation Tables – Presente](../assets/images/guide/conj_presente.png)
+<img src="../assets/images/guide/conj_presente.png" alt="Conjugation Tables – Presente">
 </div>
 
 1. **Tense title** — e.g. *Presente*, *Pretérito Indefinido*
@@ -45,7 +45,7 @@ The Conjugation Tables browser lets you look up the full conjugation of any verb
 ## Colour coding
 
 <div class="screenshot-annotated">
-![Conjugation – Stem Change](../assets/images/guide/conj_stem.png)
+<img src="../assets/images/guide/conj_stem.png" alt="Conjugation – Stem Change">
 </div>
 
 1. **Section header** — tap the `?` icon to read a grammar note on that tense group

@@ -3,7 +3,7 @@
 The Self Study screen lets you choose what type of vocabulary or grammar you want to practise.
 
 <div class="screenshot-annotated">
-![Self Study Screen](../assets/images/guide/self-study-screen.png)
+<img src="../assets/images/guide/self-study-screen.png" alt="Self Study Screen">
 </div>
 
 1. **Back** — returns to the main screen
