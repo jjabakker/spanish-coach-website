@@ -5,7 +5,7 @@ The Word Meanings flashcard test presents Spanish verbs (or their English transl
 ---
 
 <div class="screenshot-annotated">
-<img src="./verb_meanings_test.png" alt="Word Meanings Flashcard">
+<img src="../../../screenshots/Verb Meanigs.png" alt="Word Meanings Flashcard">
 </div>
 
 1. **Direction picker** — choose how cards are presented:

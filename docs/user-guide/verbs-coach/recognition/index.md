@@ -5,7 +5,7 @@ The Recognition drill shows you a conjugated verb form and asks you to identify 
 ---
 
 <div class="screenshot-annotated">
-<img src="./recognition.png" alt="Recognition">
+<img src="../../../screenshots/Recognition.png" alt="Recognition">
 </div>
 
 1. **Progress bar** — green fill = correct answers ÷ total answered this session
