@@ -30,7 +30,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.sections
-    - navigation.prune
+    - navigation.indexes
     - search.highlight
     - search.suggest
     - content.tabs.link
@@ -48,41 +48,48 @@ nav:
     - Spanish Coach:
       - Overview: user-guide/spanish-coach/index.md
       - Self Study:
+        - Self Study: user-guide/self-study/index.md
         - Verbs:
+          - Verbs: user-guide/verbs/index.md
           - Setup:
+            - Setup: user-guide/verbs/setup/index.md
             - Select Verbs: user-guide/verbs/select-verbs/index.md
             - Select Tenses: user-guide/verbs/select-tenses/index.md
           - Study:
-            - Conjugation: user-guide/verbs/conjugation-tables/index.md
-            - Meaning: user-guide/verbs/word-meanings-study/index.md
+            - Study: user-guide/verbs/study/index.md
+            - Conjugation Tables: user-guide/verbs/conjugation-tables/index.md
+            - Word Meanings: user-guide/verbs/word-meanings-study/index.md
           - Test:
-            - Conjugation: user-guide/verbs/conjugation-drill/index.md
-            - Meaning: user-guide/verbs/verb-meanings-test/index.md
+            - Test: user-guide/verbs/test/index.md
+            - Conjugation Drill: user-guide/verbs/conjugation-drill/index.md
+            - Verb Meanings Test: user-guide/verbs/verb-meanings-test/index.md
             - Recognition: user-guide/verbs/recognition/index.md
             - Past Participle: user-guide/verbs/past-participle/index.md
             - Gerundio: user-guide/verbs/gerundio/index.md
             - Indefinido: user-guide/verbs/indefinido/index.md
         - Nouns:
+          - Nouns: user-guide/nouns/index.md
           - Setup:
+            - Setup: user-guide/nouns/setup/index.md
             - Select Nouns: user-guide/nouns/setup-nouns/index.md
           - Study:
+            - Study: user-guide/nouns/study/index.md
             - Meaning: user-guide/nouns/meaning-study/index.md
             - Alternate Gender: user-guide/nouns/alternate-gender/index.md
             - Noun Gender: user-guide/nouns/noun-gender/index.md
             - Plural Formation: user-guide/nouns/plural-formation/index.md
           - Test:
-            - Meaning: user-guide/nouns/meaning-test/index.md
+            - Test: user-guide/nouns/test/index.md
+            - Meaning Test: user-guide/nouns/meaning-test/index.md
             - Pick the Correct Article: user-guide/nouns/correct-article/index.md
             - Singular / Plural: user-guide/nouns/singular-plural/index.md
             - Alternative Gender Pairs: user-guide/nouns/gender-pairs/index.md
             - Recall Noun Gender: user-guide/nouns/recall-gender/index.md
         - Words & Phrases:
-          - Select:
-            - Select Words and Phrases: user-guide/words-phrases/select/index.md
-          - Study:
-            - Study Words and Phrases: user-guide/words-phrases/study/index.md
-          - Test:
-            - Test Words and Phrases: user-guide/words-phrases/test/index.md
+          - Words & Phrases: user-guide/words-phrases/index.md
+          - Select Words and Phrases: user-guide/words-phrases/select/index.md
+          - Study Words and Phrases: user-guide/words-phrases/study/index.md
+          - Test Words and Phrases: user-guide/words-phrases/test/index.md
       - Guided Lessons: user-guide/guided-lessons/index.md
   - Documentation:
     - Getting Started: documentation/getting-started.md
