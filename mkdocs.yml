@@ -1,0 +1,68 @@
+site_name: Spanish Coach
+site_description: Learn Spanish naturally with Spanish Coach — vocabulary, grammar, and conversation practice in one app.
+site_author: Hans
+site_url: https://jjabakker.github.io/spanish-coach-website/
+
+repo_name: spanish-coach-website
+repo_url: https://github.com/jjabakker/spanish-coach-website
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Nunito
+    code: Roboto Mono
+  logo: assets/images/app-icon.png
+  favicon: assets/images/app-icon.png
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+
+extra_css:
+  - assets/css/extra.css
+
+nav:
+  - Home: index.md
+  - Screenshots: screenshots.md
+  - Documentation:
+    - Getting Started: documentation/getting-started.md
+    - Features: documentation/features.md
+    - FAQ: documentation/faq.md
+  - Privacy Policy: privacy-policy.md
+  - Support: support.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/app-store-ios
+      link: https://apps.apple.com/app/6764284291
+      name: Download on the App Store
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
