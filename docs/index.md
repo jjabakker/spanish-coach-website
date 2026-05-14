@@ -7,7 +7,7 @@
 
 Spanish Coach helps you build real-world Spanish skills through vocabulary drills, grammar lessons, and interactive conversation practice — all in one beautifully designed app.
 
-[Download on the App Store](https://apps.apple.com/app/YOUR-APP-ID){ .md-button .md-button--primary }
+[Download on the App Store](https://apps.apple.com/app/6764284291){ .md-button .md-button--primary }
 [View Screenshots](screenshots.md){ .md-button }
 
 </div>
@@ -20,7 +20,7 @@ Spanish Coach helps you build real-world Spanish skills through vocabulary drill
 <div class="video-container">
   <!-- Replace the src with your YouTube, Vimeo, or App Store preview URL -->
   <iframe
-    src="https://www.youtube.com/embed/YOUR-VIDEO-ID"
+    src="https://www.youtube.com/embed/gQy9qzYzaf0"
     title="Spanish Coach App Demo"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -72,4 +72,4 @@ Every word and phrase is voiced by native Spanish speakers for authentic pronunc
 
 Spanish Coach is available free on the App Store with optional in-app purchases.
 
-[Download Free](https://apps.apple.com/app/YOUR-APP-ID){ .md-button .md-button--primary }
+[Download Free](https://apps.apple.com/app/6764284291){ .md-button .md-button--primary }
