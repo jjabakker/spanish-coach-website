@@ -3,7 +3,7 @@
 When you open the app  you land on this main screen. From here you choose your learning path.
 
 <div class="screenshot-annotated">
-<img src="../../assets/images/guide/spanish-coach.png" alt="Spanish Coach Main Screen">
+<img src="./spanish-coach.png" alt="Spanish Coach Main Screen">
 </div>
 
 

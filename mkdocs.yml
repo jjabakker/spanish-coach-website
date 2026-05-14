@@ -41,7 +41,25 @@ extra_css:
 nav:
   - Home: index.md
   - Screenshots: screenshots.md
-  - User Guide: user-guide/index.md
+  - User Guide:
+    - Overview: user-guide/index.md
+    - Main Screen: user-guide/main-screen/index.md
+    - Self Study: user-guide/self-study/index.md
+    - Verbs Coach:
+      - Overview: user-guide/verbs-coach/index.md
+      - Setup:
+        - Selecting Verbs: user-guide/verbs-coach/select-verbs/index.md
+        - Selecting Tenses: user-guide/verbs-coach/select-tenses/index.md
+      - Study:
+        - Conjugation Tables: user-guide/verbs-coach/conjugation-tables/index.md
+        - Word Meanings: user-guide/verbs-coach/word-meanings-study/index.md
+      - Tests:
+        - Conjugation Drill: user-guide/verbs-coach/conjugation-drill/index.md
+        - Word Meanings Flashcard: user-guide/verbs-coach/verb-meanings-test/index.md
+        - Recognition: user-guide/verbs-coach/recognition/index.md
+        - Gerund (Gerundio): user-guide/verbs-coach/gerundio/index.md
+        - Past Participle: user-guide/verbs-coach/past-participle/index.md
+        - Preterite (Indefinido): user-guide/verbs-coach/indefinido/index.md
   - Documentation:
     - Getting Started: documentation/getting-started.md
     - Features: documentation/features.md
