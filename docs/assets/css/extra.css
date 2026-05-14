@@ -128,6 +128,20 @@
   transform: translateY(-1px);
 }
 
+/* ---------- Annotated Screenshots (User Guide) ---------- */
+.screenshot-annotated {
+  text-align: center;
+  margin: 1.5rem 0 1rem;
+}
+
+.screenshot-annotated img {
+  max-width: 320px;
+  width: 100%;
+  border-radius: 20px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.20);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 600px) {
   .hero-section h2 {

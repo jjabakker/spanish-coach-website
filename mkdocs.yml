@@ -40,6 +40,12 @@ extra_css:
 nav:
   - Home: index.md
   - Screenshots: screenshots.md
+  - User Guide:
+    - Overview: user-guide/index.md
+    - Main Screen: user-guide/main-screen.md
+    - Self Study: user-guide/self-study.md
+    - Verbs Coach: user-guide/verbs-coach.md
+    - Selecting Verbs: user-guide/select-verbs.md
   - Documentation:
     - Getting Started: documentation/getting-started.md
     - Features: documentation/features.md
