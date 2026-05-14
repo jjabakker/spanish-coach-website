@@ -62,5 +62,5 @@ Available scenarios include: Art, Body, Education, Emotion, Entertainment, Envir
 2. **Alphabetical index** — tap a letter on the right edge to jump directly to that section of the list
 3. **Verb list** — shows all verbs matching your current criteria with their English translation. Tap any verb to see its full details.
 
-[Back to Verbs Coach ←](verbs-coach.md){ .md-button }
-[Next: Selecting Tenses →](select-tenses.md){ .md-button }
+[Back to Verbs Coach ←](../){ .md-button }
+[Next: Selecting Tenses →](../select-tenses/){ .md-button }

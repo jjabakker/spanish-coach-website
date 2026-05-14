@@ -11,7 +11,7 @@ The Verbs Coach screen is your control centre for verb practice. It's divided in
 
 ### Setup
 
-3. **Select verbs** — choose which verbs to include in your practice. Shows the current count (e.g. "492 verbs"). [Learn more →](select-verbs.md)
+3. **Select verbs** — choose which verbs to include in your practice. Shows the current count (e.g. "492 verbs"). [Learn more →](select-verbs/)
 4. **Select tenses** — choose which tenses to practise (e.g. "16 of 16"). Tap to include or exclude specific tenses.
 
 ### Study
@@ -36,16 +36,16 @@ Every row on the Verbs Coach screen is a navigation link. Here is the complete m
 
 | Tap | Opens |
 |---|---|
-| **Select verbs** | [Selecting Verbs](select-verbs.md) — filter by CEFR, frequency, topic, or verb group |
-| **Select tenses** | [Selecting Tenses](select-tenses.md) — toggle individual tenses on/off by group |
-| **Conjugation** (Study) | [Conjugation Tables](conjugation-tables.md) — browse full tables; tap any verb |
-| **Word meanings** (Study) | [Word Meanings](word-meanings-study.md) — browse translations; no testing |
-| **Conjugation** (Test) | [Conjugation Drill](conjugation-drill.md) — type or pick the correct verb form |
-| **Word Meanings** (Test) | [Word Meanings Flashcard](verb-meanings-test.md) — flip cards; self-rate Wrong/Hesitate/Correct |
-| **Recognition** | [Recognition](recognition.md) — see a conjugated form; identify verb, tense, and person |
-| **Past participle** | [Past Participle](past-participle.md) — flashcard drill for participios |
-| **Gerund** | [Gerund (Gerundio)](gerundio.md) — flashcard drill for gerundios |
-| **Preterite** | [Preterite (Indefinido)](indefinido.md) — flashcard drill for indefinido yo/él forms |
+| **Select verbs** | [Selecting Verbs](select-verbs/) — filter by CEFR, frequency, topic, or verb group |
+| **Select tenses** | [Selecting Tenses](select-tenses/) — toggle individual tenses on/off by group |
+| **Conjugation** (Study) | [Conjugation Tables](conjugation-tables/) — browse full tables; tap any verb |
+| **Word meanings** (Study) | [Word Meanings](word-meanings-study/) — browse translations; no testing |
+| **Conjugation** (Test) | [Conjugation Drill](conjugation-drill/) — type or pick the correct verb form |
+| **Word Meanings** (Test) | [Word Meanings Flashcard](verb-meanings-test/) — flip cards; self-rate Wrong/Hesitate/Correct |
+| **Recognition** | [Recognition](recognition/) — see a conjugated form; identify verb, tense, and person |
+| **Past participle** | [Past Participle](past-participle/) — flashcard drill for participios |
+| **Gerund** | [Gerund (Gerundio)](gerundio/) — flashcard drill for gerundios |
+| **Preterite** | [Preterite (Indefinido)](indefinido/) — flashcard drill for indefinido yo/él forms |
 
 ---
 
@@ -57,4 +57,4 @@ Every row on the Verbs Coach screen is a navigation link. Here is the complete m
 4. Progress to **Conjugation Drill** and **Recognition** for deeper practice
 5. Use the **Participle**, **Gerundio**, and **Indefinido** drills to master the most common irregular forms
 
-[Next: Selecting Verbs →](select-verbs.md){ .md-button }
+[Next: Selecting Verbs →](select-verbs/){ .md-button }

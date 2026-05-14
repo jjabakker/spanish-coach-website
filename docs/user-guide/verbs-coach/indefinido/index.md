@@ -29,4 +29,4 @@ The card flashes the corresponding colour and then advances automatically.
 !!! tip "Why yo and él?"
     In the Indefinido, yo and él often have the same irregular stem (*tuv-*), while other persons follow a more regular pattern. Mastering these two unlocks the whole tense.
 
-[← Back to Verbs Coach](verbs-coach.md){ .md-button }
+[← Back to Verbs Coach](../){ .md-button }

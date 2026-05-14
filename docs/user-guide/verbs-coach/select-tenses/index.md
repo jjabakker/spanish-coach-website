@@ -30,5 +30,5 @@ The title bar always shows the current count (e.g. **Select Tenses (16)**) so yo
 !!! tip "Beginner tip"
     Start with just the **Indicativo – Simples** group. Master those five tenses before adding the subjunctive or compound tenses.
 
-[Back to Verbs Coach ←](verbs-coach.md){ .md-button }
-[Next: Conjugation Tables →](conjugation-tables.md){ .md-button }
+[Back to Verbs Coach ←](../){ .md-button }
+[Next: Conjugation Tables →](../conjugation-tables/){ .md-button }

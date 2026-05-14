@@ -21,5 +21,5 @@ The Recognition drill shows you a conjugated verb form and asks you to identify 
 !!! note "Ambiguous forms"
     Some conjugated forms are shared by more than one person or tense (e.g. *habló* = él habló / ellos hablaron). If your answer is correct for any valid combination, the app marks it right and shows the other valid answers.
 
-[← Back to Verbs Coach](verbs-coach.md){ .md-button }
-[Next: Gerund (Gerundio) →](gerundio.md){ .md-button }
+[← Back to Verbs Coach](../){ .md-button }
+[Next: Gerund (Gerundio) →](../gerundio/){ .md-button }
