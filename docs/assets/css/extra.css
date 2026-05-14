@@ -142,6 +142,37 @@
   border: 1px solid rgba(0, 0, 0, 0.08);
 }
 
+/* ---------- Expand all button ---------- */
+#nav-expand-btn {
+  background: none;
+  border: 1px solid var(--md-primary-fg-color);
+  color: var(--md-primary-fg-color);
+  border-radius: 4px;
+  font-size: 0.7rem;
+  padding: 2px 8px;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+#nav-expand-btn:hover {
+  opacity: 1;
+}
+
+/* ---------- Navigation indentation ---------- */
+/* Uniform 0.4rem step at every nesting level */
+.md-nav__item .md-nav .md-nav__item {
+  padding-left: 0.4rem;
+}
+.md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item {
+  padding-left: 0.4rem;
+}
+.md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item {
+  padding-left: 0.4rem;
+}
+.md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item {
+  padding-left: 0.4rem;
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 600px) {
   .hero-section h2 {

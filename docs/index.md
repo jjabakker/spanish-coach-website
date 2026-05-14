@@ -1,7 +1,5 @@
 # Spanish Coach
 
-<div class="hero-section" markdown>
-<div class="hero-text" markdown>
 
 ## Learn Spanish the Natural Way
 
@@ -15,20 +13,6 @@ Spanish Coach helps you build real-world Spanish skills through vocabulary drill
 
 ---
 
-## Watch Spanish Coach in Action
-
-<div class="video-container">
-  <!-- Replace the src with your YouTube, Vimeo, or App Store preview URL -->
-  <iframe
-    src="https://www.youtube.com/embed/gQy9qzYzaf0"
-    title="Spanish Coach App Demo"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
----
 
 ## Why Spanish Coach?
 

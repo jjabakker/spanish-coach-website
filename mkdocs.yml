@@ -30,7 +30,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.sections
-    - navigation.expand
+    - navigation.indexes
     - search.highlight
     - search.suggest
     - content.tabs.link
@@ -38,28 +38,55 @@ theme:
 extra_css:
   - assets/css/extra.css
 
+extra_javascript:
+  - assets/js/nav-expand.js
+
 nav:
   - Home: index.md
   - Screenshots: screenshots.md
   - User Guide:
-    - Overview: user-guide/index.md
-    - Main Screen: user-guide/main-screen/index.md
-    - Self Study: user-guide/self-study/index.md
-    - Verbs Coach:
-      - Overview: user-guide/verbs-coach/index.md
-      - Setup:
-        - Selecting Verbs: user-guide/verbs-coach/select-verbs/index.md
-        - Selecting Tenses: user-guide/verbs-coach/select-tenses/index.md
-      - Study:
-        - Conjugation Tables: user-guide/verbs-coach/conjugation-tables/index.md
-        - Word Meanings: user-guide/verbs-coach/word-meanings-study/index.md
-      - Tests:
-        - Conjugation Drill: user-guide/verbs-coach/conjugation-drill/index.md
-        - Word Meanings Flashcard: user-guide/verbs-coach/verb-meanings-test/index.md
-        - Recognition: user-guide/verbs-coach/recognition/index.md
-        - Gerund (Gerundio): user-guide/verbs-coach/gerundio/index.md
-        - Past Participle: user-guide/verbs-coach/past-participle/index.md
-        - Preterite (Indefinido): user-guide/verbs-coach/indefinido/index.md
+    - Spanish Coach: user-guide/main-screen/index.md
+    - Self Study:
+      - Overview: user-guide/self-study/index.md
+      - Verbs:
+        - Overview: user-guide/verbs-coach/index.md
+        - Setup:
+          - Verbs: user-guide/verbs-coach/select-verbs/index.md
+          - Tenses: user-guide/verbs-coach/select-tenses/index.md
+        - Study:
+          - Conjugation: user-guide/verbs-coach/conjugation-tables/index.md
+          - Meaning: user-guide/verbs-coach/word-meanings-study/index.md
+        - Test:
+          - Conjugation: user-guide/verbs-coach/conjugation-drill/index.md
+          - Meaning: user-guide/verbs-coach/verb-meanings-test/index.md
+          - Recognition: user-guide/verbs-coach/recognition/index.md
+          - Past Participle: user-guide/verbs-coach/past-participle/index.md
+          - Gerundio: user-guide/verbs-coach/gerundio/index.md
+          - Indefinido: user-guide/verbs-coach/indefinido/index.md
+      - Nouns:
+        - Overview: user-guide/nouns/index.md
+        - Setup:
+          - Nouns: user-guide/nouns/setup-nouns/index.md
+        - Study:
+          - Meaning: user-guide/nouns/meaning-study/index.md
+          - Alternate Gender: user-guide/nouns/alternate-gender/index.md
+          - Noun Gender: user-guide/nouns/noun-gender/index.md
+          - Plural Formation: user-guide/nouns/plural-formation/index.md
+        - Test:
+          - Meaning: user-guide/nouns/meaning-test/index.md
+          - Pick the Correct Article: user-guide/nouns/correct-article/index.md
+          - Singular / Plural: user-guide/nouns/singular-plural/index.md
+          - Alternative Gender Pairs: user-guide/nouns/gender-pairs/index.md
+          - Recall Noun Gender: user-guide/nouns/recall-gender/index.md
+      - Words & Phrases:
+        - Overview: user-guide/words-phrases/index.md
+        - Select:
+          - Select Words and Phrases: user-guide/words-phrases/select/index.md
+        - Study:
+          - Study Words and Phrases: user-guide/words-phrases/study/index.md
+        - Test:
+          - Test Words and Phrases: user-guide/words-phrases/test/index.md
+    - Guided Lessons: user-guide/guided-lessons/index.md
   - Documentation:
     - Getting Started: documentation/getting-started.md
     - Features: documentation/features.md
