@@ -6,7 +6,7 @@ The Self Study screen lets you choose what type of vocabulary or grammar you wan
 <img src="../../screenshots/Self Study.png" alt="Self Study Screen">
 </div>
 
-1. **Verbs** — practise verb meanings, conjugation, gerund, participle, and irregular forms. [Learn more →](../verbs-coach/)
+1. **Verbs** — practise verb meanings, conjugation, gerund, participle, and irregular forms. [Learn more →](../verbs/)
 2. **Nouns** — practise articles, gender, singular and plural forms
 3. **Words & Phrases** — practise adjectives, adverbs, and common expressions
 4. **Settings** — app and session preferences
@@ -15,8 +15,8 @@ The Self Study screen lets you choose what type of vocabulary or grammar you wan
 
 ## What's in each section?
 
-**Verbs** is the most comprehensive section — it includes a full setup system for filtering which verbs and tenses you practise, plus six different test types. See the [Verbs Coach](../verbs-coach/) page for details.
+**Verbs** is the most comprehensive section — it includes a full setup system for filtering which verbs and tenses you practise, plus six different test types. See the [Verbs Coach](../verbs/) page for details.
 
 **Nouns** and **Words & Phrases** follow a similar structure: select the words you want to study, then test yourself.
 
-[Next: Verbs Coach →](../verbs-coach/){ .md-button }
+[Next: Verbs Coach →](../verbs/){ .md-button }
