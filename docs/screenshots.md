@@ -9,13 +9,13 @@ A visual tour of Spanish Coach — every major screen in the app.
 <div class="screenshot-gallery">
 
 <div class="screenshot-item">
-<img src="assets/images/guide/spanish-coach-main-screen.png" alt="Main Screen">
+<img src="assets/images/guide/spanish-coach.png" alt="Main Screen">
 <strong>Main Screen</strong>
 <p>Your starting point — tap any section to begin studying.</p>
 </div>
 
 <div class="screenshot-item">
-<img src="assets/images/guide/self-study-screen.png" alt="Self Study">
+<img src="assets/images/guide/self-study.png" alt="Self Study">
 <strong>Self Study</strong>
 <p>Choose Verbs, Nouns, Words & Phrases, or Guided Lessons.</p>
 </div>

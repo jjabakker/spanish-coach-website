@@ -3,14 +3,13 @@
 The Self Study screen lets you choose what type of vocabulary or grammar you want to practise.
 
 <div class="screenshot-annotated">
-<img src="../../assets/images/guide/self-study-screen.png" alt="Self Study Screen">
+<img src="../../assets/images/guide/self-study.png" alt="Self Study Screen">
 </div>
 
-1. **Back** — returns to the main screen
-2. **Settings** — app and session preferences
-3. **Verbs** — practise verb meanings, conjugation, gerund, participle, and irregular forms. [Learn more →](verbs-coach.md)
-4. **Nouns** — practise articles, gender, singular and plural forms
-5. **Words & Phrases** — practise adjectives, adverbs, and common expressions
+1. **Verbs** — practise verb meanings, conjugation, gerund, participle, and irregular forms. [Learn more →](verbs-coach.md)
+2. **Nouns** — practise articles, gender, singular and plural forms
+3. **Words & Phrases** — practise adjectives, adverbs, and common expressions
+4. **Settings** — app and session preferences
 
 ---
 
