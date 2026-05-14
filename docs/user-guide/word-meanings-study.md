@@ -5,7 +5,7 @@ The Word Meanings study screen is a browse-only reference: no testing, no timers
 ---
 
 <div class="screenshot-annotated">
-<img src="../assets/images/guide/word_meanings.png" alt="Word Meanings – Study">
+<img src="../../assets/images/guide/word_meanings.png" alt="Word Meanings – Study">
 </div>
 
 1. **Search bar** — type Spanish or English to filter the list instantly

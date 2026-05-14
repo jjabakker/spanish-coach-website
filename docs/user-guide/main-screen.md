@@ -3,7 +3,7 @@
 When you open Spanish Coach you land on the main screen. From here you choose your learning path.
 
 <div class="screenshot-annotated">
-<img src="../assets/images/guide/spanish-coach-main-screen.png" alt="Spanish Coach Main Screen">
+<img src="../../assets/images/guide/spanish-coach-main-screen.png" alt="Spanish Coach Main Screen">
 </div>
 
 1. **Progress & statistics** — tap to see your learning history, streaks, and performance charts

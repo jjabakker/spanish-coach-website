@@ -9,7 +9,7 @@ Spanish Coach includes nearly 800 Spanish verbs. The Select Verbs screen lets yo
 Use the Criteria tab to filter verbs by difficulty, frequency, and topic.
 
 <div class="screenshot-annotated">
-<img src="../assets/images/guide/select-verbs-criteria.png" alt="Select Verbs — Criteria">
+<img src="../../assets/images/guide/select-verbs-criteria.png" alt="Select Verbs — Criteria">
 </div>
 
 1. **Criteria tab** — filter by CEFR level, frequency, and scenario (active tab)
@@ -27,7 +27,7 @@ Use the Criteria tab to filter verbs by difficulty, frequency, and topic.
 ## Scenario selection
 
 <div class="screenshot-annotated">
-<img src="../assets/images/guide/select-verbs-scenario.png" alt="Select Verbs — Scenario">
+<img src="../../assets/images/guide/select-verbs-scenario.png" alt="Select Verbs — Scenario">
 </div>
 
 1. **Verb count** — shows how many verbs are in this scenario category
@@ -41,7 +41,7 @@ Available scenarios include: Art, Body, Education, Emotion, Entertainment, Envir
 ## Verb Groups tab
 
 <div class="screenshot-annotated">
-<img src="../assets/images/guide/verb_groups.png" alt="Select Verbs — Verb Groups">
+<img src="../../assets/images/guide/verb_groups.png" alt="Select Verbs — Verb Groups">
 </div>
 
 1. **Criteria tab** — filter by CEFR level, frequency, and scenario
@@ -55,7 +55,7 @@ Available scenarios include: Art, Body, Education, Emotion, Entertainment, Envir
 ## Verb list
 
 <div class="screenshot-annotated">
-<img src="../assets/images/guide/select-verbs-overview.png" alt="Select Verbs — Overview">
+<img src="../../assets/images/guide/select-verbs-overview.png" alt="Select Verbs — Overview">
 </div>
 
 1. **Search** — type any Spanish or English word to filter the list instantly
