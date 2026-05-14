@@ -30,6 +30,8 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.sections
+    - navigation.expand
+    - navigation.indexes
     - search.highlight
     - search.suggest
     - content.tabs.link
@@ -44,8 +46,21 @@ nav:
     - Overview: user-guide/index.md
     - Main Screen: user-guide/main-screen.md
     - Self Study: user-guide/self-study.md
-    - Verbs Coach: user-guide/verbs-coach.md
-    - Selecting Verbs: user-guide/select-verbs.md
+    - Verbs Coach:
+      - Overview: user-guide/verbs-coach.md
+      - Setup:
+        - Selecting Verbs: user-guide/select-verbs.md
+        - Selecting Tenses: user-guide/select-tenses.md
+      - Study:
+        - Conjugation Tables: user-guide/conjugation-tables.md
+        - Word Meanings: user-guide/word-meanings-study.md
+      - Tests:
+        - Conjugation Drill: user-guide/conjugation-drill.md
+        - Word Meanings Flashcard: user-guide/verb-meanings-test.md
+        - Recognition: user-guide/recognition.md
+        - Gerund (Gerundio): user-guide/gerundio.md
+        - Past Participle: user-guide/past-participle.md
+        - Preterite (Indefinido): user-guide/indefinido.md
   - Documentation:
     - Getting Started: documentation/getting-started.md
     - Features: documentation/features.md

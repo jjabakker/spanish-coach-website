@@ -38,6 +38,20 @@ Available scenarios include: Art, Body, Education, Emotion, Entertainment, Envir
 
 ---
 
+## Verb Groups tab
+
+<div class="screenshot-annotated">
+![Select Verbs — Verb Groups](../assets/images/guide/verb_groups.png)
+</div>
+
+1. **Criteria tab** — filter by CEFR level, frequency, and scenario
+2. **Verb Groups tab** — select verbs by named linguistic groups (active tab)
+3. **Group header** — named categories such as *Basic*, *Stem Changes*, *Yo & Spelling*; tap to expand/collapse
+4. **Group checkbox** — tap to toggle all verbs in this sub-group on or off
+5. **Matching count** — updates instantly as you make changes
+
+---
+
 ## Verb list
 
 <div class="screenshot-annotated">
@@ -49,3 +63,4 @@ Available scenarios include: Art, Body, Education, Emotion, Entertainment, Envir
 3. **Verb list** — shows all verbs matching your current criteria with their English translation. Tap any verb to see its full details.
 
 [Back to Verbs Coach ←](verbs-coach.md){ .md-button }
+[Next: Selecting Tenses →](select-tenses.md){ .md-button }

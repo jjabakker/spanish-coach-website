@@ -30,11 +30,31 @@ The Verbs Coach screen is your control centre for verb practice. It's divided in
 
 ---
 
+## Where each tap takes you
+
+Every row on the Verbs Coach screen is a navigation link. Here is the complete map of which tap leads to which screen:
+
+| Tap | Opens |
+|---|---|
+| **Select verbs** | [Selecting Verbs](select-verbs.md) — filter by CEFR, frequency, topic, or verb group |
+| **Select tenses** | [Selecting Tenses](select-tenses.md) — toggle individual tenses on/off by group |
+| **Conjugation** (Study) | [Conjugation Tables](conjugation-tables.md) — browse full tables; tap any verb |
+| **Word meanings** (Study) | [Word Meanings](word-meanings-study.md) — browse translations; no testing |
+| **Conjugation** (Test) | [Conjugation Drill](conjugation-drill.md) — type or pick the correct verb form |
+| **Word Meanings** (Test) | [Word Meanings Flashcard](verb-meanings-test.md) — flip cards; self-rate Wrong/Hesitate/Correct |
+| **Recognition** | [Recognition](recognition.md) — see a conjugated form; identify verb, tense, and person |
+| **Past participle** | [Past Participle](past-participle.md) — flashcard drill for participios |
+| **Gerund** | [Gerund (Gerundio)](gerundio.md) — flashcard drill for gerundios |
+| **Preterite** | [Preterite (Indefinido)](indefinido.md) — flashcard drill for indefinido yo/él forms |
+
+---
+
 ## Recommended workflow
 
 1. Start with **Select verbs** to choose a manageable set (50–100 verbs is a good starting point)
 2. Use **Select tenses** to focus on the tenses you're currently learning
-3. Warm up with **Word Meanings** to make sure you know the verbs
-4. Progress to **Conjugation drill** and **Recognition** for deeper practice
+3. Warm up with **Word Meanings** (Study) to make sure you know the verbs
+4. Progress to **Conjugation Drill** and **Recognition** for deeper practice
+5. Use the **Participle**, **Gerundio**, and **Indefinido** drills to master the most common irregular forms
 
 [Next: Selecting Verbs →](select-verbs.md){ .md-button }
