@@ -1,7 +1,7 @@
 site_name: Spanish Coach
 site_description: Learn Spanish naturally with Spanish Coach — vocabulary, grammar, and conversation practice in one app.
 site_author: Hans
-site_url: https://jjabakker.github.io/spanish-coach-website/
+site_url: https://spanishcoach.nl/
 
 repo_name: spanish-coach-website
 repo_url: https://github.com/jjabakker/spanish-coach-website
@@ -41,7 +41,7 @@ extra_css:
 nav:
   - Home: index.md
   - Screenshots: screenshots.md
-  - User Guide: https://spanish-coach.gitbook.io/spanish-coach-docs/
+  - User Guide: user-guide/index.md
   - Documentation:
     - Getting Started: documentation/getting-started.md
     - Features: documentation/features.md
