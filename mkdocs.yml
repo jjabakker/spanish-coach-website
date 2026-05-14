@@ -41,25 +41,7 @@ extra_css:
 nav:
   - Home: index.md
   - Screenshots: screenshots.md
-  - User Guide:
-    - Overview: user-guide/index.md
-    - Main Screen: user-guide/main-screen.md
-    - Self Study: user-guide/self-study.md
-    - Verbs Coach:
-      - Overview: user-guide/verbs-coach.md
-      - Setup:
-        - Selecting Verbs: user-guide/select-verbs.md
-        - Selecting Tenses: user-guide/select-tenses.md
-      - Study:
-        - Conjugation Tables: user-guide/conjugation-tables.md
-        - Word Meanings: user-guide/word-meanings-study.md
-      - Tests:
-        - Conjugation Drill: user-guide/conjugation-drill.md
-        - Word Meanings Flashcard: user-guide/verb-meanings-test.md
-        - Recognition: user-guide/recognition.md
-        - Gerund (Gerundio): user-guide/gerundio.md
-        - Past Participle: user-guide/past-participle.md
-        - Preterite (Indefinido): user-guide/indefinido.md
+  - User Guide: https://spanish-coach.gitbook.io/spanish-coach-docs/
   - Documentation:
     - Getting Started: documentation/getting-started.md
     - Features: documentation/features.md
