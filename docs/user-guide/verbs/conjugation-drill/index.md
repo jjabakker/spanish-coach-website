@@ -37,5 +37,3 @@ Pick mode is useful when you are learning new tenses and the keyboard input feel
 
 !!! tip
     The multiple-choice distractors are phonetically similar to the correct answer, so you still have to think carefully — you cannot just spot the odd one out.
-
-[← Back to Verbs Coach](../){ .md-button }

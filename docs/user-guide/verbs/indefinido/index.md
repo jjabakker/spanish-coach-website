@@ -16,17 +16,13 @@ The Indefinido drill focuses on the simple past tense — specifically the **yo*
 
 ### After flipping
 
-The back shows the **yo** and **él** forms side by side. Irregular stem or ending changes are highlighted in orange. For example, *tener* → *tuve / tuvo* — the vowel completely changes. Rate yourself with the three buttons:
+The back shows the **yo** and **él** forms side by side. Irregular stem or ending changes are highlighted in orange. For example, *tener* → *tuve / tuvo* — the vowel completely changes. Rate yourself with one of three buttons:
 
-| Button | Colour | Use |
-|---|---|---|
-| **Wrong** | Red | Did not know either form |
-| **Hesitate** | Orange | Got them but needed effort |
-| **Correct** | Green | Recalled both immediately |
+- **Correct** (green) — recalled both forms immediately.
+- **Difficult** (orange) — got them, but needed effort.
+- **Incorrect** (red) — did not know either form.
 
 The card flashes the corresponding colour and then advances automatically.
 
 !!! tip "Why yo and él?"
     In the Indefinido, yo and él often have the same irregular stem (*tuv-*), while other persons follow a more regular pattern. Mastering these two unlocks the whole tense.
-
-[← Back to Verbs Coach](../){ .md-button }

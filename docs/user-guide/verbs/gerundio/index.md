@@ -16,14 +16,10 @@ The Gerundio drill trains you to recall the present-participle form of Spanish v
 
 ### After flipping
 
-The back of the card shows the gerundio. Irregular changes are highlighted in red or orange — for example the stem vowel change in *durmiendo* (from *dormir*). Three response buttons appear:
+The back of the card shows the gerundio. Irregular changes are highlighted in red or orange — for example the stem vowel change in *durmiendo* (from *dormir*). Rate yourself with one of three buttons:
 
-| Button | Colour | Use |
-|---|---|---|
-| **Wrong** | Red | You did not remember the form |
-| **Hesitate** | Orange | You got it but needed a moment |
-| **Correct** | Green | You recalled it immediately |
+- **Correct** (green) — recalled it immediately.
+- **Difficult** (orange) — got it, but needed a moment.
+- **Incorrect** (red) — did not remember the form.
 
-After you tap a button, the card briefly flashes the corresponding colour before advancing to the next card automatically. At the end of the deck a summary shows correct vs. wrong counts and a **Drill Again** button.
-
-[← Back to Verbs Coach](../){ .md-button }
+After you tap a button, the card briefly flashes the corresponding colour before advancing to the next card automatically. At the end of the deck a summary shows your counts and a **Drill Again** button.

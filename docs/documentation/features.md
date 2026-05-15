@@ -12,7 +12,7 @@ Practise conjugation across all the major Spanish tenses for around 630 verbs.
 - **Recognition** — given a conjugated form, identify the verb, tense, and person using three scroll wheels.
 - **Word Meanings flashcards** — Spanish ↔ your language, both directions.
 - **Past Participle**, **Gerundio**, and **Indefinido** drills — focused flashcard decks for the forms that carry the most irregularity. The decks always include all irregular members of your selection, plus a sample of regulars.
-- **Conjugation tables** — full tables for every verb, with irregular forms **colour-coded**: red for partial deviations (stem changes, irregular yo forms, y-verbs, irregular future stems), blue endings for strong preterite verbs, and solid red for completely irregular forms like *ser*, *ir*, *haber*.
+- **Conjugation tables** — full tables for every verb, with irregular forms **colour-coded**: red on just the parts of a form that deviate from the regular pattern (stem changes, irregular yo forms, y-verbs, irregular future stems), and the whole form in red where it's entirely irregular — including strong preterite verbs and forms of *ser*, *ir*, *haber*.
 
 Verbs are filterable by **CEFR level** (A1–C2), **frequency**, **scenario tag** (travel, food, work, …), and **verb group** (regular -ar / -er / -ir, stem-changing e→ie / e→i / o→ue, go-verbs, zco-verbs, j-verbs, guir-verbs, y-verbs, uir-verbs, strong preterite, reflexive, impersonal, gusto-type, stative). You can also toggle individual tenses on or off.
 

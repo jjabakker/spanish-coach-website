@@ -18,16 +18,14 @@ The title bar always shows the current count (e.g. **Select Tenses (16)**) so yo
 
 ### Tense groups
 
-| Group | What it covers |
-|---|---|
-| Indicativo – Simples | Present, Imperfect, Preterite, Future, Conditional |
-| Indicativo – Compuestos | Perfect, Pluperfect, Future Perfect, Conditional Perfect |
-| Subjuntivo – Simples | Present Subjunctive, Imperfect Subjunctive |
-| Subjuntivo – Compuestos | Present Perfect & Pluperfect Subjunctive |
-| Imperativo | Affirmative and negative command forms |
-| Formas no Personales | Infinitive, Gerundio, Past Participle |
+Tenses are organised into six groups:
+
+- **Indicativo – Simples** — Present, Imperfect, Preterite, Future, Conditional.
+- **Indicativo – Compuestos** — Perfect, Pluperfect, Future Perfect, Conditional Perfect.
+- **Subjuntivo – Simples** — Present Subjunctive, Imperfect Subjunctive.
+- **Subjuntivo – Compuestos** — Present Perfect and Pluperfect Subjunctive.
+- **Imperativo** — affirmative and negative command forms.
+- **Formas no Personales** — Infinitive, Gerundio, Past Participle.
 
 !!! tip "Beginner tip"
     Start with just the **Indicativo – Simples** group. Master those five tenses before adding the subjunctive or compound tenses.
-
-[Back to Verbs Coach ←](../){ .md-button }

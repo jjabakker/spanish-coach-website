@@ -43,8 +43,8 @@
   font-size: 0.85rem;
   line-height: 1.5;
   opacity: 0.92;
-  max-width: 820px;
-  margin: 0 auto 0.8rem;
+  max-width: none;
+  margin: 0 0 0.8rem;
 }
 
 /* ---------- Warm desert navigation ---------- */
@@ -57,6 +57,31 @@
 .md-header,
 .md-header * {
   color: #5c4630 !important;
+}
+
+/* Make the logo and site title in the header bigger and visually paired */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 40px;
+  width: 40px;
+}
+
+.md-header__title {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-left: 0.25rem;
+}
+
+/* When JS wraps the title text in a link, make it look like inherited text
+   (no underline, same colour) but with a subtle hover affordance. */
+.md-header__title a.md-header__title-link {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.md-header__title a.md-header__title-link:hover {
+  opacity: 0.75;
 }
 
 .md-tabs {
@@ -331,6 +356,40 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
   border-left: 1px solid rgba(190, 150, 90, 0.35);
   padding-left: 0.6rem;
   margin-left: 0.5rem;
+}
+
+/* Admonitions ("!!! tip", "!!! note", etc.) sit centered with a comfortable
+   margin on each side, rather than stretching the full content width. */
+.md-typeset .admonition,
+.md-typeset details {
+  max-width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Tables — drop the heavy white-box look and let them blend into the cream
+   theme with soft warm borders. */
+.md-typeset table:not([class]) {
+  background: transparent;
+  border: 1px solid rgba(190, 150, 90, 0.25);
+  box-shadow: none;
+  border-collapse: collapse;
+}
+
+.md-typeset table:not([class]) th {
+  background: rgba(190, 150, 90, 0.10);
+  color: #3a3128;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(190, 150, 90, 0.25);
+}
+
+.md-typeset table:not([class]) td {
+  background: transparent;
+  border-top: 1px solid rgba(190, 150, 90, 0.15);
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background: rgba(255, 255, 255, 0.35);
 }
 
 /* ---------- Responsive ---------- */

@@ -11,41 +11,24 @@ The Verbs Coach screen is your control centre for verb practice. It's divided in
 
 ### Setup
 
-3. **Select verbs** — choose which verbs to include in your practice. Shows the current count (e.g. "492 verbs").
-4. **Select tenses** — choose which tenses to practise (e.g. "16 of 16"). Tap to include or exclude specific tenses.
+3. [**Select verbs**](select-verbs/) — choose which verbs to include in your practice. Shows the current count (e.g. "492 verbs").
+4. [**Select tenses**](select-tenses/) — choose which tenses to practise (e.g. "16 of 16"). Tap to include or exclude specific tenses.
 
 ### Study
 
-5. **Conjugation tables** — browse the full conjugation table for any verb; useful for reference and checking your answers
-6. **Word meanings** — look up translations and definitions without being tested
+5. [**Conjugation tables**](conjugation-tables/) — browse the full conjugation table for any verb; useful for reference and checking your answers.
+6. [**Word meanings**](word-meanings-study/) — look up translations and definitions without being tested.
 
 ### Test
 
-7. **Word Meanings** — you see a verb and must choose or type the correct translation
-8. **Conjugation drill** — you see a verb and tense and must type the correct conjugated form
-9. **Recognition** — you see a conjugated form and must identify the verb, tense, and person
-10. **Past participle (Participio)** — you must recall the past participle of irregular verbs
-11. **Gerund (Gerundio)** — you must recall the gerund / present progressive form
-12. **Preterite (Indefinido)** — you must recall the simple past (indefinido) form
+7. [**Word Meanings**](verb-meanings-test/) — you see a verb and must choose or type the correct translation.
+8. [**Conjugation drill**](conjugation-drill/) — you see a verb and tense and must type the correct conjugated form.
+9. [**Recognition**](recognition/) — you see a conjugated form and must identify the verb, tense, and person.
+10. [**Past participle (Participio)**](past-participle/) — you must recall the past participle of irregular verbs.
+11. [**Gerund (Gerundio)**](gerundio/) — you must recall the gerund / present progressive form.
+12. [**Preterite (Indefinido)**](indefinido/) — you must recall the simple past (indefinido) form.
 
----
-
-## Where each tap takes you
-
-Every row on the Verbs Coach screen is a navigation link. Here is the complete map of which tap leads to which screen:
-
-| Tap | Opens |
-|---|---|
-| **Select verbs** | [Selecting Verbs](select-verbs/) — filter by CEFR, frequency, topic, or verb group |
-| **Select tenses** | [Selecting Tenses](select-tenses/) — toggle individual tenses on/off by group |
-| **Conjugation** (Study) | [Conjugation Tables](conjugation-tables/) — browse full tables; tap any verb |
-| **Word meanings** (Study) | [Word Meanings](word-meanings-study/) — browse translations; no testing |
-| **Conjugation** (Test) | [Conjugation Drill](conjugation-drill/) — type or pick the correct verb form |
-| **Word Meanings** (Test) | [Word Meanings Flashcard](verb-meanings-test/) — flip cards; self-rate Correct / Difficult / Incorrect |
-| **Recognition** | [Recognition](recognition/) — see a conjugated form; identify verb, tense, and person |
-| **Past participle** | [Past Participle](past-participle/) — flashcard drill for participios |
-| **Gerund** | [Gerund (Gerundio)](gerundio/) — flashcard drill for gerundios |
-| **Preterite** | [Preterite (Indefinido)](indefinido/) — flashcard drill for indefinido yo/él forms |
+Each row of the screen is a navigation link — tap any of the bold names above to read its detail page.
 
 ---
 

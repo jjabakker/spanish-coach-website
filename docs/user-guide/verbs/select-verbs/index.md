@@ -1,8 +1,25 @@
 # Selecting Verbs
+
 Spanish Coach includes nearly 800 Spanish verbs. The Select Verbs screen lets you narrow these down to exactly the set you want to practise. There are two different methods to select:
 
 - Specify criteria such as difficulty, frequency, and topic.
 - Select verbs based on their grammatical character.
+
+<div class="screenshot-gallery">
+
+<div class="screenshot-item">
+<img src="../../../screenshots/Select Verbs - Criteria.png" alt="Select Verbs — Criteria tab">
+<strong>Criteria tab</strong>
+<p>Filter by CEFR level, frequency, and topic.</p>
+</div>
+
+<div class="screenshot-item">
+<img src="../../../screenshots/Select Verbs - Verb Groups.png" alt="Select Verbs — Verb Groups tab">
+<strong>Verb Groups tab</strong>
+<p>Filter by grammatical category — regular, stem-changing, etc.</p>
+</div>
+
+</div>
 
 ---
 
@@ -17,12 +34,6 @@ Use the Criteria tab to filter verbs by difficulty, frequency, and topic.
 In each of the three selection screens, the number of verbs selected by that single criterion is shown. Tapping the bar shows the actual verbs.
 
 The resulting set of verbs meets all the criteria just specified. The 'Selected Verbs' row displays how many verbs are selected. By tapping it the final selected list of verbs is displayed. If you have been too selective and the resulting set of verbs is empty, the system issues a warning when you attempt to leave the screen.
-
-<div class="screenshot-annotated">
-<img src="../../../screenshots/Select Verbs - Criteria.png" alt="Select Verbs — Criteria">
-</div>
-
-
 
 ---
 
@@ -39,16 +50,10 @@ The other approach to selecting verbs is by their grammatical character. Many ve
 !!! tip "User Interface Tip"
     Tap the name of the verb group category to get an explanation of that category.
 
-Each verb group category contain 2 or more verbgroups. You can include or exclude a particular verb group by tapping the check box.
-
-
-<div class="screenshot-annotated">
-<img src="../../../screenshots/Select Verbs - Verb Groups.png" alt="Select Verbs — Verb Groups">
-</div>
-
+Each verb group category contains two or more verb groups. You can include or exclude a particular verb group by tapping the check box.
 
 !!! tip "User Interface Tip"
-    Swiping left on a verb group, displays an explanation of the verbgroup.
+    Swiping left on a verb group displays an explanation of the verb group.
 
 !!! tip "User Interface Tip"
     Swiping right shows the list of verbs belonging to this group.
@@ -56,11 +61,12 @@ Each verb group category contain 2 or more verbgroups. You can include or exclud
 ---
 
 ## Verb list
-The resulting set of verbs meets all the criteria just specified. The 'Selected Verbs' row displays how many verbs are selected. By tapping it the final selected list of verbs is displayed. If you have been too selective and the resulting set of verbs is empty, the system issues a warning when you attempt to leave the screen.
 
 <div class="screenshot-annotated">
 <img src="../../../screenshots/Select Verbs - Overview of selected verbs.png" alt="Select Verbs — Overview">
 </div>
+
+The resulting set of verbs meets all the criteria just specified. The 'Selected Verbs' row displays how many verbs are selected. By tapping it the final selected list of verbs is displayed. If you have been too selective and the resulting set of verbs is empty, the system issues a warning when you attempt to leave the screen.
 
 1. **Search** — type any Spanish or English word to filter the list instantly.
 2. **Alphabetical index** — tap a letter on the right edge to jump directly to that section of the list.

@@ -39,7 +39,7 @@ All purchases are processed through the Apple App Store and are subject to Apple
 
 ---
 
-## Updates and changes to the App
+## Updates and changes to the app
 
 We may update the App from time to time to add features, fix bugs, or improve content. Updates may change or remove functionality. We do not guarantee that any specific feature will continue to be available in future versions.
 
@@ -73,7 +73,7 @@ These Terms are governed by the laws of the Netherlands, without regard to its c
 
 ---
 
-## Changes to these Terms
+## Changes to these terms
 
 We may revise these Terms from time to time. When we do, we will update the "Last updated" date at the top of this page. For significant changes, we will surface a notice inside the App.
 

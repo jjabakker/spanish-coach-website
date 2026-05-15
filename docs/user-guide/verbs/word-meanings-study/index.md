@@ -14,5 +14,3 @@ The Word Meanings study screen is a browse-only reference: no testing, no timers
 4. **Translation** — shown in the secondary colour on the right
 
 The list shows the verbs selected for your current session, not your entire selection. If you want to browse all selected verbs, use the [Conjugation Tables](../conjugation-tables/) screen instead.
-
-[← Back to Verbs Coach](../){ .md-button }

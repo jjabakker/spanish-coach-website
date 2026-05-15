@@ -11,6 +11,43 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
+  // The header logo is already a link to home. The site title next to it
+  // is not — attach a click handler so the entire title area also goes home.
+  // Using a handler rather than wrapping the text in an <a> avoids fighting
+  // with Material's own DOM layout for the header.
+  function makeTitleClickable() {
+    var title = document.querySelector(".md-header__title");
+    if (!title) return;
+    if (title.dataset.clickable === "yes") return; // already wired
+
+    var logoLink = document.querySelector(".md-header__button.md-logo");
+    var homeHref = logoLink ? logoLink.getAttribute("href") : ".";
+
+    title.style.cursor = "pointer";
+    title.setAttribute("role", "link");
+    title.setAttribute("tabindex", "0");
+    title.dataset.clickable = "yes";
+
+    function go() {
+      window.location.href = homeHref;
+    }
+
+    title.addEventListener("click", function (e) {
+      // Don't hijack clicks on nested elements that are themselves links
+      // (e.g. the search input or any future child link).
+      var anchor = e.target.closest && e.target.closest("a, input, button");
+      if (anchor && anchor !== title) return;
+      go();
+    });
+
+    title.addEventListener("keydown", function (e) {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        go();
+      }
+    });
+  }
+
   function init() {
     if (document.getElementById("nav-expand-btn")) return true;
 
@@ -46,5 +83,6 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   tagBodyForTocSuppression();
+  makeTitleClickable();
   if (!init()) { setTimeout(function(){ if(!init()) setTimeout(init, 1000); }, 300); }
 });

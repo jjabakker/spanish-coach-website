@@ -10,7 +10,7 @@ Spanish Coach is available for iPhone and iPad.
 
 <a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="../../assets/images/app-store-badge.svg" alt="Download on the App Store"></a>
 
-**Requirements:** iOS 16.0 or later. An Apple Silicon Mac version is also available.
+**Requirements:** iOS 16.0 or later.
 
 Spanish Coach stores all your data on the device — there is no account to create, no sign-in, and no sync to the cloud. You can start using it the moment it finishes installing.
 
@@ -29,12 +29,11 @@ Spanish Coach speaks Spanish words and forms aloud using iOS speech synthesis. i
 
 ## 3. Decide: Self Study or Guided Lessons?
 
-Spanish Coach offers two modes:
+Spanish Coach offers two modes.
 
-| Mode | Best for |
-|---|---|
-| **Self Study** | You know what you want to drill — a specific tense, a vocabulary theme, a grammar group |
-| **Guided Lessons** | You want a structured curriculum that decides what to study next for you |
+**Self Study** is for when you know what you want to drill — a specific tense, a vocabulary theme, a grammar group. You decide which words and tenses are in play, then run the test that fits.
+
+**Guided Lessons** is for when you want a structured curriculum that decides what to study next for you. Lessons unlock in order and combine vocabulary and grammar progressively.
 
 If you're new to Spanish or unsure where to start, begin with **Guided Lessons**. If you have a specific goal — say, getting the pretérito indefinido automatic — **Self Study** is the right tool.
 

@@ -18,15 +18,11 @@ The Past Participle drill trains you to recall the participio of Spanish verbs �
 
 The back shows the participio. Irregular forms are shown in orange text. Tap the card again at any time to flip it back if you want to compare front and back. Then rate yourself:
 
-| Button | Colour | Use |
-|---|---|---|
-| **Wrong** | Red | Did not recall the form |
-| **Hesitate** | Orange | Recalled it, but slowly |
-| **Correct** | Green | Recalled it immediately |
+- **Correct** (green) — recalled it immediately.
+- **Difficult** (orange) — recalled it, but slowly.
+- **Incorrect** (red) — did not recall the form.
 
 The card flashes the corresponding colour before advancing automatically.
 
 !!! note "Deck composition"
     The drill always includes all irregular participles from your verb selection, plus roughly half as many regular participles to keep your ear calibrated.
-
-[← Back to Verbs Coach](../){ .md-button }

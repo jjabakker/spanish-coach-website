@@ -31,5 +31,3 @@ Once you tap the card it flips with a 3-D animation to reveal the answer. Three 
 Every answer is recorded in the local performance database and feeds the adaptive engine, which prioritises weaker verbs in future sessions.
 
 At the end of the deck, a summary screen shows your Correct / Difficult / Incorrect counts and lets you start a new session.
-
-[← Back to Verbs Coach](../){ .md-button }

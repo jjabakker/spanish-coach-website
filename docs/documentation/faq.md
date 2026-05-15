@@ -14,7 +14,7 @@ Spanish Coach is free to download from the App Store. Some features are availabl
 
 **What devices does Spanish Coach support?**
 
-iOS 16.0 or later on iPhone and iPad. An Apple Silicon Mac version is also available.
+iOS 16.0 or later on iPhone and iPad.
 
 **Do I need an internet connection to use the app?**
 
@@ -70,7 +70,7 @@ Your **word pool** is the full set of words eligible to appear in sessions (defi
 
 **Why is part of a verb form shown in red or blue?**
 
-In conjugation tables, irregular forms are colour-coded. A **partial red** highlight marks the part of a form that deviates from the regular pattern (a stem change, an irregular yo form, etc.). A **fully red** form is completely irregular and must be memorised whole. **Red stem + blue endings** flags a strong preterite verb. See the [Verbs Coach page](../user-guide/verbs/) in the User Guide for the full key.
+In conjugation tables, irregular forms are colour-coded. A **partial red** highlight marks the part of a form that deviates from the regular pattern (a stem change, an irregular yo form, etc.). A **fully red** form is completely irregular and must be memorised whole — strong preterite verbs are shown this way too. See the [Verbs Coach page](../user-guide/verbs/) in the User Guide for the full key.
 
 **How does the adaptive learning work?**
 
