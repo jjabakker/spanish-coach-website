@@ -324,6 +324,15 @@ body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
   padding-left: 0.4rem;
 }
 
+/* Give nested expandable nav groups (like Verbs / Nouns / Words & Phrases
+   under User Guide) the same vertical depth-line treatment that Material
+   gives the integrated table of contents. */
+.md-sidebar--primary .md-nav__item--nested > .md-nav {
+  border-left: 1px solid rgba(190, 150, 90, 0.35);
+  padding-left: 0.6rem;
+  margin-left: 0.5rem;
+}
+
 /* ---------- Responsive ---------- */
 .md-grid {
   max-width: 1500px;
