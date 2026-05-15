@@ -1,33 +1,24 @@
 site_name: Spanish Coach
 site_description: A focused, structured practice environment for Spanish verb conjugation, noun vocabulary, and everyday words and phrases — with adaptive sessions that prioritise the words you find hardest.
-site_author: Hans
+site_author: Hans Bakker
 site_url: https://spanishcoach.nl/
-
-repo_name: spanish-coach-website
-repo_url: https://github.com/jjabakker/spanish-coach-website
 
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: deep orange
-      accent: orange
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: deep orange
-      accent: orange
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+  - scheme: default
+    primary: grey
+    accent: amber
+
+  - scheme: slate
+    primary: blue grey
+    accent: amber
   font:
     text: Nunito
     code: Roboto Mono
   logo: assets/images/app-icon.png
   favicon: assets/images/app-icon.png
   features:
-    - navigation.tabs
     - navigation.top
     - navigation.sections
     - navigation.indexes

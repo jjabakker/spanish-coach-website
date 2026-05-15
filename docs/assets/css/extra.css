@@ -1,19 +1,39 @@
 /* ============================================
    Spanish Coach — MkDocs Extra Styles
    ============================================ */
+:root {
+  --md-default-bg-color: #f7f2e8;
+  --md-default-fg-color: #332b22;
+
+  --md-primary-fg-color: #efe4cf;
+  --md-primary-fg-color--light: #f6edde;
+  --md-primary-fg-color--dark: #dcc6a0;
+
+  --md-accent-fg-color: #c07a12;
+}
+
+
+.md-main {
+  background: #f7f2e8;
+}
+
+.md-content {
+  background: transparent;
+}
+
 
 /* ---------- Hero Section ---------- */
 .hero-section {
-  background: linear-gradient(135deg, #e64a19 0%, #ff7043 100%);
+  background: linear-gradient(135deg, #ead7b1 0%, #f5ebd7 100%);
   border-radius: 12px;
   padding: 3rem 2rem;
   margin: 1.5rem 0 2rem;
-  color: white;
+  color: #3a3128;
   text-align: center;
 }
 
 .hero-section h2 {
-  color: white !important;
+  color: #3a3128 !important;
   font-size: 2.2rem;
   margin-bottom: 0.75rem;
 }
@@ -23,6 +43,50 @@
   opacity: 0.92;
   max-width: 600px;
   margin: 0 auto 1.5rem;
+}
+
+/* ---------- Warm desert navigation ---------- */
+
+.md-header {
+  background: #f3eadb !important;
+  box-shadow: 0 1px 0 rgba(180, 140, 70, 0.12);
+}
+
+.md-header,
+.md-header * {
+  color: #5c4630 !important;
+}
+
+.md-tabs {
+  background: #f6efe3 !important;
+}
+
+.md-search__form {
+  background-color: rgba(255,255,255,0.82) !important;
+  border: 1px solid rgba(180,140,70,0.15);
+  border-radius: 10px;
+}
+
+.md-sidebar--primary {
+  border-right: 1px solid rgba(190,150,90,0.12);
+}
+
+.md-sidebar--secondary {
+  border-left: 1px solid rgba(190,150,90,0.12);
+}
+
+.md-nav__link--active,
+.md-tabs__link--active {
+  color: #c07a12 !important;
+  font-weight: 600;
+}
+
+.md-typeset a {
+  color: #b67d1f;
+}
+
+.md-typeset a:hover {
+  color: #d29a34;
 }
 
 /* ---------- Video Embed ---------- */
@@ -55,10 +119,11 @@
 }
 
 .feature-card {
-  background: var(--md-code-bg-color);
+  background: rgba(255,255,255,0.55);
+  backdrop-filter: blur(4px);
   border-radius: 10px;
   padding: 1.25rem 1.5rem;
-  border-left: 4px solid #ff7043;
+  border-left: 4px solid #c89b6d;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
@@ -174,6 +239,9 @@
 }
 
 /* ---------- Responsive ---------- */
+.md-grid {
+  max-width: 1500px;
+}
 @media (max-width: 600px) {
   .hero-section h2 {
     font-size: 1.6rem;
