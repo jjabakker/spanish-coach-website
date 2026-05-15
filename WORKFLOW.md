@@ -1,163 +1,104 @@
 # Website Update Workflow
 
-This document describes the end-to-end process for updating the Spanish Coach website — from new screenshots through local testing to publishing on GitHub Pages.
+This document covers the day-to-day workflow for editing the Spanish Coach website — updating screenshots, editing pages, previewing locally, and publishing to GitHub Pages.
+
+The site is built with [MkDocs](https://www.mkdocs.org) and the [Material theme](https://squidfunk.github.io/mkdocs-material/). It's deployed automatically via GitHub Actions whenever you push to `main`.
 
 ---
 
-## Overview
+## File layout
 
 ```
-New screenshots
-      ↓
-Update annotate.py
-      ↓
-Run annotate.py  →  annotated images in docs/assets/images/guide/
-      ↓
-Update user guide pages (if needed)
-      ↓
-Test locally with mkdocs serve
-      ↓
-Commit & push → GitHub Actions rebuilds the site
-```
-
----
-
-## Step 1 — Add new screenshots
-
-Place screenshots in the correct folder under:
-
-```
-~/Documents/spanish-coach-website/Screenshots/
-```
-
-Follow the existing folder structure, for example:
-
-```
-Screenshots/
-  Spanish Coach.png
-  Spanish Coach/
-    Self Study/
-      Self Study.png
-      Verbs/
-        Verbs Coach.png
-        Setup/
-          Select verbs/
-            ...
+~/spanish-coach-website/
+├── docs/
+│   ├── index.md                 Home page
+│   ├── screenshots.md           Screenshots gallery page
+│   ├── privacy-policy.md
+│   ├── support.md
+│   ├── documentation/           Getting Started / Features / FAQ
+│   ├── user-guide/              Deep User Guide (Verbs, Nouns, …)
+│   ├── screenshots/             All screenshot PNGs live here
+│   └── assets/
+│       ├── css/extra.css        Custom styles
+│       ├── js/nav-expand.js     Sidebar "Expand all" + page tagging
+│       └── images/              App icon, App Store badge
+├── mkdocs.yml                   Site config and navigation tree
+├── .github/workflows/deploy.yml CI build & publish to GitHub Pages
+└── WORKFLOW.md                  This file
 ```
 
 ---
 
-## Step 2 — Update annotate.py
+## Updating a screenshot
 
-Open:
+The User Guide and Screenshots pages reference screenshots from a single folder: `docs/screenshots/`. To swap one out:
 
-```
-/Users/hans/Xcode/Spanish Coach/UtilitiesForSpanishCoach/src/Pictures/annotate.py
-```
+1. **Find the filename.** Open the page's `.md` file (under `docs/user-guide/...` or `docs/screenshots.md`) and look at the `<img src="…">`. The filename after the last `/` is the one to match.
 
-**If adding a new screen**, add an entry to both `FILES` and `ANNOTATIONS`:
+2. **Capture a fresh screenshot.** From the iOS Simulator press `Cmd+S` (saves to Desktop), or AirDrop from a device. Aim for the same aspect ratio as the existing screenshots — iPhone portrait, about 390 × 844.
 
-```python
-# In FILES:
-"my-new-screen":
-    "Spanish Coach/Path/To/Screenshot.png",
+3. **Replace the file** in `docs/screenshots/` using the **exact same filename**. If you rename it, also update the `<img src="">` in the markdown.
 
-# In ANNOTATIONS:
-"my-new-screen": [
-    (0.08, 0.200, 1),   # describe what this points to
-    (0.92, 0.200, 2),   # describe what this points to
-],
-```
+4. **Preview locally** (see below) and force a browser refresh (`Cmd+Shift+R`) — images do not auto-reload.
 
-**If a screenshot moved**, update the path in `FILES`.
+5. **Commit and push.**
 
-### Finding the right label positions
+That's the whole process. No annotation step, no Python scripts, no label coordinates.
 
-Use the interactive label placer:
-
-1. Open in your browser:
-   ```
-   /Users/hans/Xcode/Spanish Coach/UtilitiesForSpanishCoach/src/Pictures/label-placer.html
-   ```
-2. Load the screenshot
-3. Click to place numbered labels
-4. Copy the output and paste it into the `ANNOTATIONS` dict in `annotate.py`
+> **Note:** an older annotation pipeline using `annotate.py` (in the app repo) once produced numbered-overlay screenshots. It is no longer used — the User Guide pages describe UI elements by name (**Help**, **Settings**, **Select verbs**) which is enough, and the screenshots in `docs/screenshots/` are unannotated. If you ever want to point at a specific pixel-position element, the lightweight option is a tight crop of the relevant area as a separate screenshot.
 
 ---
 
-## Step 3 — Run annotate.py
+## Editing a page
 
-In Terminal:
+1. Find the page's markdown file under `docs/`.
+2. Edit and save. `mkdocs serve` live-reloads markdown changes automatically.
+3. If you add a new page, also register it in `mkdocs.yml` under `nav:`.
+
+---
+
+## Editing styling
+
+Custom styles live in `docs/assets/css/extra.css`. The Material theme's CSS variables (set in the `:root` block at the top) control the colour palette site-wide.
+
+If you change CSS, `mkdocs serve` should pick it up. If it doesn't, do a hard refresh (`Cmd+Shift+R`).
+
+---
+
+## Local preview
 
 ```bash
-cd "/Users/hans/Xcode/Spanish Coach/UtilitiesForSpanishCoach/src/Pictures"
-.venv/bin/python annotate.py
-```
-
-Annotated images are written to:
-
-```
-~/Documents/spanish-coach-website/docs/assets/images/guide/
-```
-
-The script prints `✓ filename.png` for each success and `✗ MISSING: path` for any source file it cannot find.
-
----
-
-## Step 4 — Update the user guide (if needed)
-
-User guide pages live in:
-
-```
-~/Documents/spanish-coach-website/docs/user-guide/
-```
-
-If you added a new screen or changed label positions/count, update the corresponding `.md` file:
-
-- The `<img src="...">` tag should reference the correct output filename
-- The numbered list must match the labels in the image (same count, same order)
-
-If you added a brand new page, also add it to the `nav:` section in `mkdocs.yml`.
-
----
-
-## Step 5 — Test locally
-
-Start the local preview server:
-
-```bash
-cd ~/Documents/spanish-coach-website
+cd ~/spanish-coach-website
 mkdocs serve
 ```
 
-Open your browser at **http://127.0.0.1:8000/spanish-coach-website/**
+Open <http://127.0.0.1:8000/> in your browser. The server live-reloads on `.md` changes; for image and YAML front-matter changes you may need to:
 
-The server live-reloads when you save any `.md` file. Images do **not** live-reload automatically — do **Cmd + Shift + R** in the browser after running `annotate.py` to force a refresh.
+- Hard refresh the browser: `Cmd+Shift+R`
+- Or stop and restart `mkdocs serve` for nav-structure changes in `mkdocs.yml`
 
-Stop the server with **Ctrl + C**.
+Stop the server with `Ctrl+C`.
+
+If `mkdocs` isn't installed yet:
+
+```bash
+pip install mkdocs-material
+```
 
 ---
 
-## Step 6 — Commit and push to GitHub
+## Publishing
 
-When everything looks good locally:
+GitHub Actions builds and deploys automatically on every push to `main`:
 
 ```bash
-cd ~/Documents/spanish-coach-website
-
-# Stage everything
+cd ~/spanish-coach-website
 git add .
-
-# Commit with a descriptive message
 git commit -m "Describe what you changed"
-
-# Push
 git push origin main
 ```
 
-GitHub Actions will automatically rebuild and deploy the site. Allow about 1–2 minutes, then check the live site at:
-
-**https://jjabakker.github.io/spanish-coach-website/**
+Wait ~1–2 minutes, then check the live site at **<https://spanishcoach.nl/>**.
 
 ---
 
@@ -165,11 +106,11 @@ GitHub Actions will automatically rebuild and deploy the site. Allow about 1–2
 
 | Task | Command |
 |---|---|
-| Run annotation script | `cd "/Users/hans/Xcode/Spanish Coach/UtilitiesForSpanishCoach/src/Pictures" && .venv/bin/python annotate.py` |
-| Start local preview | `cd ~/Documents/spanish-coach-website && mkdocs serve` |
-| Force browser refresh | **Cmd + Shift + R** |
-| Commit and push | `git add . && git commit -m "message" && git push origin main` |
-| Label placer tool | Open `label-placer.html` in browser |
+| Start local preview | `cd ~/spanish-coach-website && mkdocs serve` |
+| Force browser refresh | `Cmd+Shift+R` |
+| Restart preview (nav changes) | `Ctrl+C`, then `mkdocs serve` |
+| Commit and push | `git add . && git commit -m "…" && git push origin main` |
+| Live site | <https://spanishcoach.nl/> |
 
 ---
 
@@ -177,9 +118,11 @@ GitHub Actions will automatically rebuild and deploy the site. Allow about 1–2
 
 | What | Where |
 |---|---|
-| Source screenshots | `~/Documents/spanish-coach-website/Screenshots/` |
-| Annotated output images | `~/Documents/spanish-coach-website/docs/assets/images/guide/` |
-| User guide pages | `~/Documents/spanish-coach-website/docs/user-guide/` |
-| Annotation script | `~/Xcode/Spanish Coach/UtilitiesForSpanishCoach/src/Pictures/annotate.py` |
-| Label placer | `~/Xcode/Spanish Coach/UtilitiesForSpanishCoach/src/Pictures/label-placer.html` |
-| Site config | `~/Documents/spanish-coach-website/mkdocs.yml` |
+| Screenshots | `docs/screenshots/` |
+| User Guide pages | `docs/user-guide/` |
+| Documentation pages | `docs/documentation/` |
+| Custom CSS | `docs/assets/css/extra.css` |
+| Custom JS | `docs/assets/js/nav-expand.js` |
+| App icon / App Store badge | `docs/assets/images/` |
+| Site config & nav | `mkdocs.yml` |
+| Deploy workflow | `.github/workflows/deploy.yml` |

@@ -74,6 +74,7 @@ nav:
       - Test: user-guide/words-phrases/test/index.md
     - Guided Lessons: user-guide/guided-lessons/index.md
   - Privacy: privacy-policy.md
+  - Terms: terms.md
   - Support: support.md
 
 extra:

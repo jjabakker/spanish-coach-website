@@ -68,7 +68,8 @@ For verbs, the **Select Verbs** screen has two tabs: filter by **Criteria** (CEF
 
 ## 6. Check your progress
 
-Tap the bar-chart icon on the home screen. You'll see total answers, accuracy, words practised, and active study days. The same screen highlights your **weakest words** (lowest correct rate) and **strongest words** — useful for deciding where to focus next.
+!!! note "Coming soon"
+    A progress overview screen — showing accuracy, words practised, active study days, weakest words and strongest words — is in development. This section will be filled in once it ships.
 
 ---
 

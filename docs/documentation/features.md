@@ -65,16 +65,16 @@ A speed slider in the app lets you slow speech down for listening practice.
 
 ## Preferences
 
-| Setting | What it does |
-|---|---|
-| **Interface Language** | The language of the app (English or Dutch) |
-| **Native Language** | The language Spanish words are translated into |
-| **Session Size** | Number of words per session (10, 20, 30, 50, or All) |
-| **Learning Pace** | Relaxed / Balanced / Intensive — biases new vs review |
-| **Auto-advance** | Correct answers automatically move to the next card |
-| **Speech** | Choose a Spanish voice and adjust speaking speed |
+A few settings let you tune how the app fits your study habit:
 
-You can reset your study history (verbs only, nouns only, or everything) from **Preferences → Data → Reset Progress**. Your word selection filters are not affected by a reset.
+- **Interface Language** — switch the app between English and Dutch.
+- **Native Language** — the language Spanish words are translated into on flashcards and word lists.
+- **Session Size** — how many words appear in each session: 10, 20, 30, 50, or All.
+- **Learning Pace** — *Relaxed*, *Balanced*, or *Intensive*. Biases the balance between new vocabulary and review.
+- **Auto-advance** — when on, a correct answer moves to the next card after a short pause.
+- **Speech** — pick a Spanish voice and adjust the speaking speed.
+
+You can reset your study history from **Preferences → Data → Reset Progress** — verbs only, nouns only, or everything at once. Your word-selection filters are not affected.
 
 ---
 
