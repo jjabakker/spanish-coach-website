@@ -8,7 +8,7 @@ This page gets you from "just installed" to "running your first useful drill" in
 
 Spanish Coach is available for iPhone and iPad.
 
-[Download on the App Store](https://apps.apple.com/app/6764284291){ .md-button .md-button--primary }
+<a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="../../assets/images/app-store-badge.svg" alt="Download on the App Store"></a>
 
 **Requirements:** iOS 16.0 or later. An Apple Silicon Mac version is also available.
 

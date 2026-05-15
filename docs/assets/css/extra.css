@@ -26,7 +26,7 @@
 .hero-section {
   background: linear-gradient(135deg, #ead7b1 0%, #f5ebd7 100%);
   border-radius: 12px;
-  padding: 3rem 2rem;
+  padding: 1.75rem 2.25rem;
   margin: 1.5rem 0 2rem;
   color: #3a3128;
   text-align: center;
@@ -34,15 +34,17 @@
 
 .hero-section h2 {
   color: #3a3128 !important;
-  font-size: 2.2rem;
-  margin-bottom: 0.75rem;
+  font-size: 1.4rem;
+  line-height: 1.25;
+  margin-bottom: 0.5rem;
 }
 
 .hero-section p {
-  font-size: 1.15rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
   opacity: 0.92;
-  max-width: 600px;
-  margin: 0 auto 1.5rem;
+  max-width: 820px;
+  margin: 0 auto 0.8rem;
 }
 
 /* ---------- Warm desert navigation ---------- */
@@ -69,6 +71,22 @@
 
 .md-sidebar--primary {
   border-right: 1px solid rgba(190,150,90,0.12);
+}
+
+/* Hide the redundant boxed site title at the top of the primary sidebar on desktop.
+   The same name is already in the header bar. Keep it visible on mobile so the
+   drawer still has a useful label. */
+@media screen and (min-width: 60em) {
+  .md-sidebar--primary .md-nav--primary > .md-nav__title {
+    display: none;
+  }
+}
+
+/* On pages tagged via JS as not wanting an integrated TOC (Home, Screenshots),
+   hide the secondary nav that toc.integrate inserts under the active entry. */
+body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > nav.md-nav,
+body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
+  display: none;
 }
 
 .md-sidebar--secondary {
@@ -113,9 +131,15 @@
 /* ---------- Features Grid ---------- */
 .features-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.25rem;
   margin: 1.5rem 0;
+}
+
+@media (max-width: 800px) {
+  .features-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .feature-card {
@@ -134,13 +158,16 @@
 
 .feature-card h3 {
   margin-top: 0;
-  font-size: 1.05rem;
-  color: var(--md-primary-fg-color);
+  margin-bottom: 0.4rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #3a3128;
 }
 
 .feature-card p {
   margin-bottom: 0;
-  font-size: 0.92rem;
+  font-size: 0.78rem;
+  line-height: 1.5;
   opacity: 0.85;
 }
 
@@ -193,18 +220,77 @@
   transform: translateY(-1px);
 }
 
-/* ---------- Annotated Screenshots (User Guide) ---------- */
+/* ---------- App Store badge + matching secondary CTA ---------- */
+.app-store-badge,
+.hero-cta-secondary {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0.25rem 0.35rem;
+  transition: transform 0.15s ease, filter 0.15s ease, background 0.15s ease;
+}
+
+.app-store-badge img {
+  height: 50px;
+  width: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+.app-store-badge:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.08);
+}
+
+.hero-aside {
+  margin: 0.5rem 0 0 !important;
+  font-size: 0.78rem;
+  opacity: 0.7;
+}
+
+.hero-aside a {
+  color: #3a3128 !important;
+  text-decoration: none;
+}
+
+.hero-aside a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+/* ---------- Annotated Screenshots (User Guide) ----------
+   On wide screens the iPhone screenshot floats to the right and the
+   surrounding text flows around it. Narrow screens fall back to the
+   stacked layout. h2 and hr clear the float so sections start fresh. */
 .screenshot-annotated {
-  text-align: center;
-  margin: 1.5rem 0 1rem;
+  float: right;
+  clear: right;
+  margin: 0.25rem 0 1rem 1.75rem;
+  max-width: 260px;
 }
 
 .screenshot-annotated img {
-  max-width: 320px;
   width: 100%;
+  max-width: 100%;
   border-radius: 20px;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.20);
   border: 1px solid rgba(0, 0, 0, 0.08);
+  display: block;
+}
+
+/* Section breaks should clear the screenshot float, so each new section
+   doesn't visually run into the previous one's image. */
+.md-content article h2,
+.md-content article hr {
+  clear: both;
+}
+
+@media (max-width: 800px) {
+  .screenshot-annotated {
+    float: none;
+    margin: 1.5rem auto;
+    max-width: 320px;
+    text-align: center;
+  }
 }
 
 /* ---------- Expand all button ---------- */

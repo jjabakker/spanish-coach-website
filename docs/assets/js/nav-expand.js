@@ -1,5 +1,16 @@
 document.addEventListener("DOMContentLoaded", function () {
 
+  // Tag the body with a class on pages where we don't want the
+  // integrated TOC to clutter the sidebar (Home and Screenshots).
+  function tagBodyForTocSuppression() {
+    var p = window.location.pathname;
+    // strip trailing index.html if present
+    p = p.replace(/index\.html$/, "");
+    if (p === "/" || p === "/screenshots/") {
+      document.body.classList.add("hide-integrated-toc");
+    }
+  }
+
   function init() {
     if (document.getElementById("nav-expand-btn")) return true;
 
@@ -34,5 +45,6 @@ document.addEventListener("DOMContentLoaded", function () {
     return true;
   }
 
+  tagBodyForTocSuppression();
   if (!init()) { setTimeout(function(){ if(!init()) setTimeout(init, 1000); }, 300); }
 });

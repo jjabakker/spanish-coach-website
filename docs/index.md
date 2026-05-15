@@ -1,5 +1,11 @@
+---
+hide:
+  - toc
+---
+
 # Spanish Coach
 
+<div class="hero-section" markdown>
 
 ## Master Spanish grammar and vocabulary, one drill at a time
 
@@ -7,14 +13,11 @@ Spanish Coach is a focused practice environment for Spanish **verb conjugation**
 
 It is **not** a natural-immersion app or a full language course. It is the structured, grammar-first drill tool you reach for when you want to actually master what you've been taught elsewhere.
 
-[Download on the App Store](https://apps.apple.com/app/6764284291){ .md-button .md-button--primary }
-[View Screenshots](screenshots.md){ .md-button }
+<a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store"></a>
+
+<p class="hero-aside"><a href="screenshots/">or browse the screenshots first →</a></p>
 
 </div>
-</div>
-
----
-
 
 ## What Spanish Coach is good at
 
@@ -70,4 +73,4 @@ Spanish Coach offers two ways to work.
 
 Spanish Coach is available on the App Store for iPhone and iPad. Free to download with optional in-app purchases.
 
-[Download Free](https://apps.apple.com/app/6764284291){ .md-button .md-button--primary }
+<a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store"></a>
