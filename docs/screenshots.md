@@ -42,7 +42,7 @@ A visual tour of Spanish Coach — every major screen in the app.
 <div class="screenshot-item">
 <img src="Select Verbs - Criteria.png" alt="Select Verbs">
 <strong>Select Verbs</strong>
-<p>Filter by CEFR level, frequency, and topic scenario.</p>
+<p>Filter by CEFR level, frequency, and topic.</p>
 </div>
 
 <div class="screenshot-item">

@@ -27,13 +27,21 @@ Spanish Coach includes nearly 800 Spanish verbs. The Select Verbs screen lets yo
 
 Use the Criteria tab to filter verbs by difficulty, frequency, and topic.
 
-1. Tap on the **Criteria tab** row to choose which CEFR levels to include (A1, A2, B1, B2, C1, C2). The bar shows how many levels are selected.
+1. Tap on the **CEFR Level** row to choose which CEFR levels to include (A1, A2, B1, B2, C1, C2). The bar shows how many levels are selected.
 2. Tap on **Frequency** to select verbs by their frequency of occurrence.
-3. Tap on **Scenario** to select verbs associated with certain scenarios, e.g. Art, Body, Education, Emotion, Entertainment, …
+3. Tap on **Topic** to select verbs associated with certain topics, e.g. Art, Body, Education, Emotion, Entertainment, … The Topic list also includes any **personal topics** you have added yourself (marked with a small person icon — see [Personal topics](#personal-topics) below).
 
 In each of the three selection screens, the number of verbs selected by that single criterion is shown. Tapping the bar shows the actual verbs.
 
 The resulting set of verbs meets all the criteria just specified. The 'Selected Verbs' row displays how many verbs are selected. By tapping it the final selected list of verbs is displayed. If you have been too selective and the resulting set of verbs is empty, the system issues a warning when you attempt to leave the screen.
+
+### Personal topics
+
+Personal topics are tags you create yourself — labels like *exam*, *tricky*, *favourite*, or anything else useful for organising your own study. They live alongside the bundled topics in the **Topic** filter and you can mix them freely with the standard categories.
+
+To add a personal topic, open any verb's detail view (for example by tapping a verb in [Conjugation Tables](../conjugation-tables/)), tap the **+** at the end of the Topics row, and either type a new tag or pick from your previously-used ones. Once a verb is tagged, the new topic appears in the Topic filter here, marked with a small person icon to distinguish it from the bundled categories.
+
+Personal topics are stored locally on your device and survive app updates.
 
 ---
 

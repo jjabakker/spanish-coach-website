@@ -30,7 +30,7 @@ Conjugation tables with irregular forms colour-coded so you can see — at a gla
 
 <div class="feature-card" markdown>
 ### 🎯 Targeted selection
-Filter your word pool by CEFR level (A1–C2), frequency, scenario tag, or verb group (regular, stem-changing, strong preterite, reflexive, etc.). Drill exactly what you want — nothing else.
+Filter your word pool by CEFR level (A1–C2), frequency, topic, or verb group (regular, stem-changing, strong preterite, reflexive, etc.). Drill exactly what you want — nothing else.
 </div>
 
 <div class="feature-card" markdown>

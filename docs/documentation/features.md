@@ -14,7 +14,7 @@ Practise conjugation across all the major Spanish tenses for around 630 verbs.
 - **Past Participle**, **Gerundio**, and **Indefinido** drills — focused flashcard decks for the forms that carry the most irregularity. The decks always include all irregular members of your selection, plus a sample of regulars.
 - **Conjugation tables** — full tables for every verb, with irregular forms **colour-coded**: red on just the parts of a form that deviate from the regular pattern (stem changes, irregular yo forms, y-verbs, irregular future stems), and the whole form in red where it's entirely irregular — including strong preterite verbs and forms of *ser*, *ir*, *haber*.
 
-Verbs are filterable by **CEFR level** (A1–C2), **frequency**, **scenario tag** (travel, food, work, …), and **verb group** (regular -ar / -er / -ir, stem-changing e→ie / e→i / o→ue, go-verbs, zco-verbs, j-verbs, guir-verbs, y-verbs, uir-verbs, strong preterite, reflexive, impersonal, gusto-type, stative). You can also toggle individual tenses on or off.
+Verbs are filterable by **CEFR level** (A1–C2), **frequency**, **topic** (travel, food, work, …), and **verb group** (regular -ar / -er / -ir, stem-changing e→ie / e→i / o→ue, go-verbs, zco-verbs, j-verbs, guir-verbs, y-verbs, uir-verbs, strong preterite, reflexive, impersonal, gusto-type, stative). You can also toggle individual tenses on or off.
 
 ---
 
@@ -28,7 +28,15 @@ Around 1,100 Spanish nouns, with practice for gender, plurals, and alternate-gen
 - **Meaning flashcards** — Spanish ↔ your language.
 - **Reference notes** — gender rules and an explainer for alternate-gender pairs.
 
-Filter by CEFR level, frequency, or topic category (home, food, body, technology, …).
+Filter by CEFR level, frequency, or topic (home, food, body, technology, …).
+
+---
+
+## Personal topics
+
+In addition to the bundled topics that ship with the app, you can add **your own topics** to any verb or noun. Open a word's detail view, tap **+** in the Topics row, and either type a new tag (like *exam*, *tricky*, or *kitchen*) or pick from one you've used before. Personal topics live alongside the bundled topics in the same filter and behave the same way — you can mix them freely with CEFR level, frequency, and the standard topic categories.
+
+The data is stored locally on your device. There is no cloud sync; tags survive app updates but stay on the device they were created on.
 
 ---
 

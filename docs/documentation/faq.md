@@ -68,6 +68,10 @@ Your **word pool** is the full set of words eligible to appear in sessions (defi
 
 **Correct** — you knew it without hesitation. **Difficult** — you got there eventually, or were only partially right. **Incorrect** — you did not know it or were wrong. All three move the word to the next session — each word appears exactly once per session regardless of how you rated it.
 
+**Can I add my own categories to words?**
+
+Yes. Every verb and noun detail view has a **Topics** row with a **+** button — tap it to add a personal topic (e.g. *exam*, *tricky*, *kitchen*). Your topics live alongside the bundled ones (food, travel, work, …) in the same Topic filter on the Select screens, marked with a small person icon so you can still tell them apart. They're stored locally on your device and persist across app updates.
+
 **Why is part of a verb form shown in red or blue?**
 
 In conjugation tables, irregular forms are colour-coded. A **partial red** highlight marks the part of a form that deviates from the regular pattern (a stem change, an irregular yo form, etc.). A **fully red** form is completely irregular and must be memorised whole — strong preterite verbs are shown this way too. See the [Verbs Coach page](../user-guide/verbs/) in the User Guide for the full key.

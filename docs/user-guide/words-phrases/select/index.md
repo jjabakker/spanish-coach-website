@@ -8,7 +8,7 @@ Spanish Coach includes around 540 Words & Phrases entries — adjectives, adverb
 
 - **CEFR Level** — A1 (Beginner) through C2 (Mastery).
 - **Frequency** — Very Common, Common, or Less Common.
-- **Topic / Scenario** — limit to one or more categories such as greetings, food, travel, numbers, time, body, work, …
+- **Topic** — limit to one or more categories such as greetings, food, travel, numbers, time, body, work, …
 
 The screen always shows how many entries match your current filters. Tap **Matching words** to browse the full list before confirming.
 

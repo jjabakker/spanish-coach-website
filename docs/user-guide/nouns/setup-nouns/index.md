@@ -10,9 +10,19 @@ You can combine filters freely — for example **A1 + A2, Very Common + Common, 
 
 - **CEFR Level** — A1 (Beginner) through C2 (Mastery). You can include one level only, or every level up to a chosen ceiling. Most learners starting out will want A1 and A2.
 - **Frequency** — Very Common, Common, or Less Common. Use this to keep your pool focused on everyday vocabulary.
-- **Topic / Scenario** — limit to one or more categories: home, food, body, work, travel, technology, …
+- **Topic** — limit to one or more categories: home, food, body, work, travel, technology, … The Topic list also includes any **personal topics** you have added yourself (see [Personal topics](#personal-topics) below).
 
 The screen always shows how many nouns match your current filters. Tap **Matching nouns** to browse the full list before confirming.
+
+---
+
+## Personal topics
+
+Alongside the bundled topics, you can create your own — labels like *exam*, *tricky*, or *kitchen* — and use them to filter nouns the same way as the standard categories.
+
+To add a personal topic, open any noun's detail view (for example by tapping a noun in [Meaning Study](../meaning-study/)), tap the **+** at the end of the Topics row, and either type a new tag or pick from your previously-used ones. Once at least one noun carries the tag, it appears in the Topic filter on this screen, marked with a small person icon to set it apart from the bundled categories.
+
+Personal topics are stored locally on your device and survive app updates.
 
 ---
 

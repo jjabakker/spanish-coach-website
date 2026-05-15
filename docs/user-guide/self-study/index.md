@@ -17,7 +17,7 @@ The Self Study screen lets you choose what type of vocabulary or grammar you wan
 
 Each of the three vocabulary sections (Verbs, Nouns, Words & Phrases) has the same internal structure: **Setup**, **Study**, and **Test**.
 
-- **Setup** — define your word pool (which words are eligible to appear). Filters include CEFR level (A1–C2), frequency, topic scenario, and — for verbs — grammatical group (regular, stem-changing, irregular, reflexive, …).
+- **Setup** — define your word pool (which words are eligible to appear). Filters include CEFR level (A1–C2), frequency, topic, and — for verbs — grammatical group (regular, stem-changing, irregular, reflexive, …).
 - **Study** — browse-only reference: conjugation tables, word lists, grammar notes. Nothing is recorded.
 - **Test** — active practice: flashcards and drills. Every answer is recorded and feeds the adaptive engine.
 

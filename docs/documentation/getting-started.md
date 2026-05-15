@@ -61,7 +61,7 @@ Once basic vocabulary feels solid, broaden your selection step by step:
 - Open **Self Study → Verbs → Select Verbs**, switch to the **Verb Groups** tab, and tick **Regular -ar** only. Set the tense filter to **Present**.
 - Get the regular present tense automatic before adding stem-changing or irregular groups.
 
-For verbs, the **Select Verbs** screen has two tabs: filter by **Criteria** (CEFR / frequency / topic scenario) or by **Verb Groups** (regular, stem-changing, go-verbs, strong preterite, reflexive, …). Pick whichever matches what you want to drill.
+For verbs, the **Select Verbs** screen has two tabs: filter by **Criteria** (CEFR / frequency / topic) or by **Verb Groups** (regular, stem-changing, go-verbs, strong preterite, reflexive, …). Pick whichever matches what you want to drill.
 
 ---
 

@@ -21,7 +21,7 @@ The Verbs Coach has three areas:
 
 **Setup** — Choose which verbs and tenses to work on before you start.
 
-- [Selecting Verbs](verbs/select-verbs/) — Filter by CEFR level, frequency, topic scenario, or verb group.
+- [Selecting Verbs](verbs/select-verbs/) — Filter by CEFR level, frequency, topic, or verb group.
 - [Selecting Tenses](verbs/select-tenses/) — Toggle individual tenses on or off.
 
 **Study** — Learn at your own pace with reference material.
