@@ -69,7 +69,7 @@ A visual tour of Spanish Coach — every major screen in the app.
 <div class="screenshot-item">
 <img src="screenshots/Verb Meanigs.png" alt="Word Meanings Flashcard">
 <strong>Word Meanings</strong>
-<p>Flip cards to reveal translations; rate yourself Wrong / Hesitate / Correct.</p>
+<p>Flip cards to reveal translations; rate yourself Correct / Difficult / Incorrect.</p>
 </div>
 
 <div class="screenshot-item">

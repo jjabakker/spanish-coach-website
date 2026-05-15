@@ -41,7 +41,7 @@ Every row on the Verbs Coach screen is a navigation link. Here is the complete m
 | **Conjugation** (Study) | [Conjugation Tables](conjugation-tables/) — browse full tables; tap any verb |
 | **Word meanings** (Study) | [Word Meanings](word-meanings-study/) — browse translations; no testing |
 | **Conjugation** (Test) | [Conjugation Drill](conjugation-drill/) — type or pick the correct verb form |
-| **Word Meanings** (Test) | [Word Meanings Flashcard](verb-meanings-test/) — flip cards; self-rate Wrong/Hesitate/Correct |
+| **Word Meanings** (Test) | [Word Meanings Flashcard](verb-meanings-test/) — flip cards; self-rate Correct / Difficult / Incorrect |
 | **Recognition** | [Recognition](recognition/) — see a conjugated form; identify verb, tense, and person |
 | **Past participle** | [Past Participle](past-participle/) — flashcard drill for participios |
 | **Gerund** | [Gerund (Gerundio)](gerundio/) — flashcard drill for gerundios |

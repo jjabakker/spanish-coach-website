@@ -1,78 +1,74 @@
 # Getting Started with Spanish Coach
 
-Welcome to Spanish Coach! This guide will help you get up and running in just a few minutes.
+This page gets you from "just installed" to "running your first useful drill" in a few minutes. For a deeper tour of every screen, see the [User Guide](../user-guide/).
 
 ---
 
-## 1. Download the App
+## 1. Install the app
 
-Spanish Coach is available for iPhone and iPad on the App Store.
+Spanish Coach is available for iPhone and iPad.
 
-[Download on the App Store](https://apps.apple.com/app/YOUR-APP-ID){ .md-button .md-button--primary }
+[Download on the App Store](https://apps.apple.com/app/6764284291){ .md-button .md-button--primary }
 
-**Requirements:**
+**Requirements:** iOS 16.0 or later. An Apple Silicon Mac version is also available.
 
-- iOS 16.0 or later
-- iPhone, iPad, or iPod touch
-- ~50 MB of storage
+Spanish Coach stores all your data on the device — there is no account to create, no sign-in, and no sync to the cloud. You can start using it the moment it finishes installing.
 
 ---
 
-## 2. Create Your Account
+## 2. Set up speech (one-time, strongly recommended)
 
-When you open Spanish Coach for the first time, you can:
+Spanish Coach speaks Spanish words and forms aloud using iOS speech synthesis. iOS includes Spanish voices at three quality levels — **Standard** (installed by default, sounds robotic), **Enhanced**, and **Premium**. The Enhanced and Premium voices are free to download and sound dramatically better.
 
-- **Sign in with Apple** — the quickest and most private option
-- **Sign in with email** — create an account with your email address
-- **Continue as guest** — explore the app without signing in (progress is saved locally only)
-
-We recommend signing in so your progress syncs across all your devices.
+1. Open the iOS **Settings** app.
+2. Go to **Accessibility → Spoken Content → Voices → Spanish**.
+3. Choose a region (Spain, Mexico, Latin America, …) and tap the download icon next to any voice marked **Enhanced** or **Premium**. The download is a few hundred megabytes — use Wi-Fi.
+4. Back in Spanish Coach, tap the **gear icon → Speech** and pick the voice you just downloaded.
 
 ---
 
-## 3. Choose Your Level
+## 3. Decide: Self Study or Guided Lessons?
 
-Spanish Coach will ask you to select your starting level:
+Spanish Coach offers two modes:
 
-| Level | Who it's for |
+| Mode | Best for |
 |---|---|
-| **Beginner** | Little or no Spanish experience |
-| **Elementary** | Know some basics, can form simple sentences |
-| **Intermediate** | Comfortable with everyday conversations |
-| **Advanced** | Fluent in most situations, refining skills |
+| **Self Study** | You know what you want to drill — a specific tense, a vocabulary theme, a grammar group |
+| **Guided Lessons** | You want a structured curriculum that decides what to study next for you |
 
-Not sure? Take the **quick placement quiz** — it takes about 2 minutes and recommends the right level for you.
+If you're new to Spanish or unsure where to start, begin with **Guided Lessons**. If you have a specific goal — say, getting the pretérito indefinido automatic — **Self Study** is the right tool.
 
 ---
 
-## 4. Set Your Daily Goal
+## 4. Run your first Self Study session
 
-Pick how many minutes per day you'd like to study:
+Here's a concrete first session that's hard to get wrong:
 
-- **5 minutes** — Light practice to keep Spanish fresh
-- **10 minutes** — Steady, consistent progress (recommended for most)
-- **15 minutes** — Accelerated learning
-- **20+ minutes** — Immersive daily study
+1. From the home screen, tap **Self Study → Nouns**.
+2. Tap **Select Nouns** and set **CEFR Level** to **A1**.
+3. Set **Session Size** to **20**.
+4. Go back and tap **Test word meaning**.
+5. Work through the flashcards. After each card, rate yourself **Correct**, **Difficult**, or **Incorrect**.
 
-You can change your goal anytime in **Settings → Daily Goal**.
-
----
-
-## 5. Start Your First Lesson
-
-From the Home screen, tap **Start Learning** to begin your first lesson. Each lesson covers:
-
-1. New vocabulary introduction
-2. Pronunciation with native audio
-3. A short grammar point
-4. Practice exercises
-5. A mini quiz to confirm you've got it
+Every answer is recorded locally. The next session will give you 20 more — prioritising words you haven't seen, then words you got wrong.
 
 ---
 
-## Syncing Across Devices
+## 5. Filter precisely as you grow
 
-Sign in with the same Apple ID or email on all your devices and your progress, vocabulary, and streaks will sync automatically via iCloud.
+Once basic vocabulary feels solid, broaden your selection step by step:
+
+- Add A2 nouns to your pool.
+- Open **Self Study → Verbs → Select Verbs**, switch to the **Verb Groups** tab, and tick **Regular -ar** only. Set the tense filter to **Present**.
+- Get the regular present tense automatic before adding stem-changing or irregular groups.
+
+For verbs, the **Select Verbs** screen has two tabs: filter by **Criteria** (CEFR / frequency / topic scenario) or by **Verb Groups** (regular, stem-changing, go-verbs, strong preterite, reflexive, …). Pick whichever matches what you want to drill.
+
+---
+
+## 6. Check your progress
+
+Tap the bar-chart icon on the home screen. You'll see total answers, accuracy, words practised, and active study days. The same screen highlights your **weakest words** (lowest correct rate) and **strongest words** — useful for deciding where to focus next.
 
 ---
 
@@ -80,3 +76,4 @@ Sign in with the same Apple ID or email on all your devices and your progress, v
 
 - [Explore Features →](features.md)
 - [Frequently Asked Questions →](faq.md)
+- [Full User Guide →](../user-guide/)

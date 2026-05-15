@@ -1,8 +1,10 @@
 # Privacy Policy
 
-**Last updated: May 14, 2026**
+**Last updated: May 15, 2026**
 
-This Privacy Policy describes how Spanish Coach ("we", "us", or "our") collects, uses, and shares information when you use the Spanish Coach mobile application (the "App").
+This Privacy Policy describes how Spanish Coach ("we", "us", or "our") handles information when you use the Spanish Coach mobile application (the "App").
+
+The short version: **Spanish Coach is a local-first app. All your data — answers, progress, settings — stays on your device. There is no account, no cloud sync, and no analytics tracking.**
 
 ---
 
@@ -10,81 +12,75 @@ This Privacy Policy describes how Spanish Coach ("we", "us", or "our") collects,
 
 ### Information You Provide
 
-- **Account information** — If you create an account, we collect your email address and display name. If you sign in with Apple, we receive only the information Apple shares with us (typically an anonymised email address).
-- **Learning data** — Your lesson progress, vocabulary lists, quiz scores, streaks, and in-app settings are stored to personalise your experience and sync across devices.
-
-### Information Collected Automatically
-
-- **Usage data** — We collect anonymous data about how you use the App, such as which features you use, how long sessions last, and which lessons are completed. This helps us improve the App.
-- **Device information** — We may collect your device type, operating system version, and app version for diagnostic purposes.
-- **Crash reports** — If the App crashes, an anonymised crash report is sent to help us identify and fix bugs.
+- **Your answers and study activity** — Every answer you give in a flashcard or drill is stored locally on your device, along with the date, time, word, and question type. This data is used by the App's adaptive learning system to decide which words to show you next. It is never sent off the device.
+- **Your preferences** — Interface language, native language, session size, learning pace, voice and speech speed, and word-selection filters are stored locally on your device.
 
 ### Information We Do NOT Collect
 
-- We do not collect your precise location.
-- We do not access your contacts, camera, or microphone without explicit in-app permission (microphone is used only for speaking exercises, with your consent).
-- We do not collect or store voice recordings beyond the immediate speaking exercise session.
+- We do not collect any personal information such as your name, email address, or date of birth.
+- We do not require, create, or maintain user accounts.
+- We do not collect your precise or approximate location.
+- We do not access your contacts, camera, microphone, or photos. The App does not include speaking exercises, audio recording, or any feature that uses the microphone.
+- We do not run any analytics, telemetry, or crash-reporting service against your use of the App. There is no Google Analytics, Firebase, Mixpanel, Amplitude, Sentry, Crashlytics, or equivalent in the App.
+- We do not store or transmit your answer history, progress, or any other study data to our servers. We do not have a server for this data.
 
 ---
 
-## How We Use Your Information
+## When the App Communicates With the Internet
 
-We use the information we collect to:
+The App is designed to work fully offline. There are a few specific situations where it may make a network connection:
 
-- Operate and improve the App
-- Sync your progress across your devices
-- Personalise your learning experience
-- Send optional push notifications (you can disable these in your device settings)
-- Respond to your support requests
-- Understand how users interact with the App so we can improve it
+- **In-app purchases.** If you purchase or restore a Spanish Coach subscription or one-time purchase, the App communicates with Apple's App Store and StoreKit servers. This is handled entirely by Apple — we do not see your payment information.
+- **External dictionary lookups.** Some screens include an optional "look up in external dictionary" button that opens an external Spanish dictionary in Safari. This action is user-initiated and Safari (not Spanish Coach) is what loads the page.
+- **Bug reports and feedback.** When you shake the device to send feedback, the App opens the system Mail composer with a pre-filled email containing a screenshot of the current screen, the App version, your iOS version, and your device model. The email is sent **only when you tap Send**, and it goes through your own mail account directly to the developer. The App itself does not transmit anything in the background.
+
+---
+
+## How We Use Information
+
+Because we don't collect personal information, there's very little to use. The on-device data described above is used for:
+
+- Powering the adaptive learning system inside the App.
+- Restoring your session state, preferences, and study history between launches.
+- Responding to support requests that you send us by email — only the information you choose to include in the email.
 
 ---
 
 ## Data Sharing
 
-We do not sell your personal information. We may share information with:
-
-- **Service providers** — Third-party companies that help us operate the App (e.g., cloud hosting, analytics). These providers are contractually required to protect your data and may not use it for their own purposes.
-- **Apple** — As required to operate in-app purchases and subscriptions through the App Store.
-- **Legal requirements** — If required by law, court order, or to protect the rights and safety of our users.
+We do not share any of your data with third parties, because there is no data on our side to share. Communication with the App Store for purchases is handled by Apple under Apple's own privacy policy.
 
 ---
 
-## Data Retention
+## Data Retention and Deletion
 
-We retain your account and learning data for as long as your account is active. If you delete your account, we will delete your personal data within 30 days, except where retention is required by law.
+Your study data lives on your device until you delete it. You can reset your progress at any time from inside the App, in **Preferences → Data → Reset Progress** — you can reset Verbs only, Nouns only, or everything at once. Uninstalling the App removes all of its local data from your device.
 
 ---
 
 ## Your Rights
 
-Depending on your location, you may have the right to:
-
-- Access the personal data we hold about you
-- Correct inaccurate data
-- Request deletion of your data
-- Object to or restrict how we process your data
-- Data portability
-
-To exercise any of these rights, contact us at [privacy@spanishcoach.app](mailto:privacy@spanishcoach.app).
+Because we do not hold any personal data about you, requests to access, correct, or delete your data are best handled directly on your device using the reset and uninstall mechanisms described above. If you have questions, contact us at [privacy@spanishcoach.app](mailto:privacy@spanishcoach.app).
 
 ---
 
 ## Children's Privacy
 
-Spanish Coach is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, please contact us and we will delete it promptly.
+Spanish Coach is not directed at children under the age of 13, but the App does not collect personal information from anyone, so children's privacy is not put at risk by using it.
 
 ---
 
 ## Security
 
-We use industry-standard security measures to protect your data, including encryption in transit (HTTPS/TLS) and at rest. However, no method of transmission over the internet is 100% secure.
+Your study data lives in the App's sandboxed storage on your device. iOS sandboxing prevents other apps from reading it.
+
+When you send a bug report email, the email is transmitted using your own mail account's normal security (typically TLS/HTTPS).
 
 ---
 
 ## Changes to This Policy
 
-We may update this Privacy Policy from time to time. When we do, we will update the "Last updated" date at the top of this page. For significant changes, we will notify you in-app or by email.
+We may update this Privacy Policy if the App's behaviour changes. When we do, we will update the "Last updated" date at the top of this page.
 
 ---
 

@@ -1,6 +1,6 @@
 # Word Meanings Flashcard
 
-The Word Meanings flashcard test presents Spanish verbs (or their English translations) and asks you to recall the other side. You rate yourself after each card — **Wrong**, **Hesitate**, or **Correct** — and the app tracks your progress.
+The Word Meanings flashcard test presents Spanish verbs (or their English translations) and asks you to recall the other side. You rate yourself after each card — **Correct**, **Difficult**, or **Incorrect** — and the app tracks your progress.
 
 ---
 
@@ -24,12 +24,12 @@ Once you tap the card it flips with a 3-D animation to reveal the answer. Three 
 
 | Button | Meaning |
 |---|---|
-| **Wrong** (red) | You did not know the answer |
-| **Hesitate** (orange) | You got it, but it took effort |
-| **Correct** (green) | You knew it immediately |
+| **Correct** (green) | You knew it without hesitation |
+| **Difficult** (orange) | You got there eventually, or were only partially right |
+| **Incorrect** (red) | You did not know the answer or were wrong |
 
-The app uses these ratings to schedule which verbs appear more frequently in future sessions.
+Every answer is recorded in the local performance database and feeds the adaptive engine, which prioritises weaker verbs in future sessions.
 
-At the end of the deck, a summary screen shows your Correct / Hesitate / Wrong counts and lets you start a new session.
+At the end of the deck, a summary screen shows your Correct / Difficult / Incorrect counts and lets you start a new session.
 
 [← Back to Verbs Coach](../){ .md-button }

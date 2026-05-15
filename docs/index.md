@@ -1,9 +1,11 @@
 # Spanish Coach
 
 
-## Learn Spanish the Natural Way
+## Master Spanish grammar and vocabulary, one drill at a time
 
-Spanish Coach helps you build real-world Spanish skills through vocabulary drills, grammar lessons, and interactive conversation practice — all in one beautifully designed app.
+Spanish Coach is a focused practice environment for Spanish **verb conjugation**, **noun vocabulary**, and **everyday words & phrases**. The adaptive engine prioritises the words you haven't seen and the ones you keep getting wrong, so every session works on the material that matters most for you.
+
+It is **not** a natural-immersion app or a full language course. It is the structured, grammar-first drill tool you reach for when you want to actually master what you've been taught elsewhere.
 
 [Download on the App Store](https://apps.apple.com/app/6764284291){ .md-button .md-button--primary }
 [View Screenshots](screenshots.md){ .md-button }
@@ -14,46 +16,58 @@ Spanish Coach helps you build real-world Spanish skills through vocabulary drill
 ---
 
 
-## Why Spanish Coach?
+## What Spanish Coach is good at
 
 <div class="features-grid" markdown>
 
 <div class="feature-card" markdown>
-### 🗣️ Conversation Practice
-Practice real dialogues and build speaking confidence with guided conversation exercises.
+### 📖 Explicit grammar
+Conjugation tables with irregular forms colour-coded so you can see — at a glance — exactly where a verb deviates from the regular pattern, and by how much.
 </div>
 
 <div class="feature-card" markdown>
-### 📚 Vocabulary Builder
-Master Spanish words with spaced repetition flashcards that adapt to your learning pace.
+### 🎯 Targeted selection
+Filter your word pool by CEFR level (A1–C2), frequency, scenario tag, or verb group (regular, stem-changing, strong preterite, reflexive, etc.). Drill exactly what you want — nothing else.
 </div>
 
 <div class="feature-card" markdown>
-### ✍️ Grammar Lessons
-Clear, concise lessons covering essential Spanish grammar — from basics to advanced.
+### 🧠 Adaptive sessions
+Every answer is recorded locally. Unseen words appear first (ordered by CEFR + frequency), then weakest-performing words by correct-rate. You always work on what needs work.
 </div>
 
 <div class="feature-card" markdown>
-### 📊 Progress Tracking
-See your progress at a glance with streaks, stats, and achievement milestones.
+### 🗂️ Six verb test types
+Conjugation Drill (type or pick), Recognition (verb / tense / person), Word Meanings flashcards, Past Participle, Gerundio, and Indefinido drills — each tuned to a specific weak spot.
 </div>
 
 <div class="feature-card" markdown>
-### 🎯 Personalised Learning
-Choose your level — Beginner, Intermediate, or Advanced — and learn at your own pace.
+### 🇪🇸 Noun gender & plurals
+Practise *el* / *la*, singular / plural, and the tricky alternate-gender pairs (*el capital* vs *la capital*) with rule-based explanations alongside.
 </div>
 
 <div class="feature-card" markdown>
-### 🔊 Native Audio
-Every word and phrase is voiced by native Spanish speakers for authentic pronunciation.
+### 🔊 Spanish speech
+Tap the speaker on any card to hear the form. Spanish Coach uses iOS speech synthesis — install a free **Enhanced** or **Premium** Apple Spanish voice from iOS Settings for natural-sounding audio.
 </div>
 
 </div>
 
 ---
 
-## Get Started Today
+## Self Study or Guided Lessons?
 
-Spanish Coach is available free on the App Store with optional in-app purchases.
+Spanish Coach offers two ways to work.
+
+**Self Study** puts you in full control. You decide which words to practise, which tenses to include, and which exercises to use. Best when you have a specific goal — a particular tense, a vocabulary theme, or a grammar point you want to drill.
+
+**Guided Lessons** follow a fixed, structured path. The app introduces vocabulary and grammar in a coherent sequence — no configuration required. Best if you're not sure where to start.
+
+[Read the User Guide →](user-guide/){ .md-button }
+
+---
+
+## Get Started
+
+Spanish Coach is available on the App Store for iPhone and iPad. Free to download with optional in-app purchases.
 
 [Download Free](https://apps.apple.com/app/6764284291){ .md-button .md-button--primary }

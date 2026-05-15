@@ -1,15 +1,6 @@
 # Spanish Coach
 
-When you open the app  you land on this main screen. From here you choose your learning path.
-
-<div class="screenshot-annotated">
-<img src="../../screenshots/Spanish Coach.png" alt="Spanish Coach Main Screen">
-</div>
-
-
----
-
-## Choosing a Path
+When you open the app, you land on this main screen. From here you choose your learning path.
 
 | Path | Best for |
 |---|---|
@@ -17,8 +8,16 @@ When you open the app  you land on this main screen. From here you choose your l
 | **Guided Lessons** | You want a structured programme that decides what to study next for you |
 
 
+<div class="screenshot-annotated">
+<img src="../../screenshots/Spanish Coach.png" alt="Spanish Coach Main Screen">
+</div>
 
-At the top of the screen you see icons, on the right to change user setttings and to diplay online help, on the left icon(s) to review leaning performance data.
+
+!!! tip "User interface convention"
+    In most screens of the app, you **tap** to trigger an action and you can **long-press** to get an explanation of what that control does.
 
 
+At the top of the screen you'll see icons:
 
+- On the **right**, icons to open **Settings** (the gear) and the **Help / User Guide**.
+- On the **left**, an icon to review your **learning performance** — overall stats, your weakest words, and your strongest words.
