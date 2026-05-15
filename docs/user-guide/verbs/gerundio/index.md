@@ -27,4 +27,3 @@ The back of the card shows the gerundio. Irregular changes are highlighted in re
 After you tap a button, the card briefly flashes the corresponding colour before advancing to the next card automatically. At the end of the deck a summary shows correct vs. wrong counts and a **Drill Again** button.
 
 [← Back to Verbs Coach](../){ .md-button }
-[Next: Past Participle →](../past-participle/){ .md-button }

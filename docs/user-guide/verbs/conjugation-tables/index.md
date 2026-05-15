@@ -56,4 +56,3 @@ The Conjugation Tables browser lets you look up the full conjugation of any verb
     Use this screen alongside any test. When you get an answer wrong, tap the book icon on the test card to jump straight here and see the full table.
 
 [← Back to Verbs Coach](../){ .md-button }
-[Next: Word Meanings →](../word-meanings-study/){ .md-button }

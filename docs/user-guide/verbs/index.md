@@ -6,12 +6,12 @@ The Verbs Coach screen is your control centre for verb practice. It's divided in
 <img src="../../screenshots/Verbs Coach.png" alt="Verbs Coach Screen">
 </div>
 
-1. **Help** — tap the ? icon for a quick explanation of each test type
+1. **Help** — tap the :material-help-circle: icon for a quick explanation of each test type
 2. **Settings** — adjust session length and other preferences
 
 ### Setup
 
-3. **Select verbs** — choose which verbs to include in your practice. Shows the current count (e.g. "492 verbs"). [Learn more →](select-verbs/)
+3. **Select verbs** — choose which verbs to include in your practice. Shows the current count (e.g. "492 verbs").
 4. **Select tenses** — choose which tenses to practise (e.g. "16 of 16"). Tap to include or exclude specific tenses.
 
 ### Study
@@ -57,4 +57,3 @@ Every row on the Verbs Coach screen is a navigation link. Here is the complete m
 4. Progress to **Conjugation Drill** and **Recognition** for deeper practice
 5. Use the **Participle**, **Gerundio**, and **Indefinido** drills to master the most common irregular forms
 
-[Next: Selecting Verbs →](select-verbs/){ .md-button }

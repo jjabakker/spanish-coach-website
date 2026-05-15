@@ -30,4 +30,3 @@ The card flashes the corresponding colour before advancing automatically.
     The drill always includes all irregular participles from your verb selection, plus roughly half as many regular participles to keep your ear calibrated.
 
 [← Back to Verbs Coach](../){ .md-button }
-[Next: Preterite (Indefinido) →](../indefinido/){ .md-button }

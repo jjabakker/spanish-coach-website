@@ -22,4 +22,3 @@ At the top of the screen you see icons, on the right to change user setttings an
 
 
 
-[Next: Self Study →](../self-study/){ .md-button }

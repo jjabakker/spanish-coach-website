@@ -33,4 +33,3 @@ The app uses these ratings to schedule which verbs appear more frequently in fut
 At the end of the deck, a summary screen shows your Correct / Hesitate / Wrong counts and lets you start a new session.
 
 [← Back to Verbs Coach](../){ .md-button }
-[Next: Recognition →](../recognition/){ .md-button }
