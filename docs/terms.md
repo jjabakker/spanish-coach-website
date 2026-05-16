@@ -1,3 +1,7 @@
+---
+description: Terms of use for the Spanish Coach iOS app and website.
+---
+
 # Terms of Use
 
 **Last updated: May 15, 2026**

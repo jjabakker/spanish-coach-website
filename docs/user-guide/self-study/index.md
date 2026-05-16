@@ -3,7 +3,7 @@
 The Self Study screen lets you choose what type of vocabulary or grammar you want to practise.
 
 <div class="screenshot-annotated">
-<img src="../../screenshots/Self Study.png" alt="Self Study Screen">
+<img src="../../screenshots/self-study.png" alt="Self Study Screen" width="1320" height="2868" loading="lazy" decoding="async">
 </div>
 
 1. **Verbs** — practise verb meanings, conjugation, gerund, past participle, indefinido, and recognition.

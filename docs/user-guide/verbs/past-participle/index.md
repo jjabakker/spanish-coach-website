@@ -5,7 +5,7 @@ The Past Participle drill trains you to recall the participio of Spanish verbs â
 ---
 
 <div class="screenshot-annotated">
-<img src="../../../screenshots/Recalll Past Pariciple.png" alt="Past Participle Drill">
+<img src="../../../screenshots/recall-past-participle.png" alt="Past Participle Drill" width="1320" height="2868" loading="lazy" decoding="async">
 </div>
 
 1. **Progress bar** â€” shows how far through the deck you are; the counter (e.g. 2 / 18) is shown below

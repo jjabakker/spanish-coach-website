@@ -1,3 +1,7 @@
+---
+description: Help and support for Spanish Coach — common issues, how to send a bug report, how to reset progress, and how to contact us.
+---
+
 # Support
 
 We're here to help. Find answers below or get in touch.
@@ -33,7 +37,7 @@ Before reaching out, check if your question is answered in our documentation:
     Pick a region (Spain, Mexico, Latin America, …) and tap the download icon next to any Enhanced or Premium voice. Back in Spanish Coach, tap the **gear icon → Speech** and select the voice you just downloaded.
 
 ??? question "I want to reset my progress"
-    In the app, go to **Preferences → Data → Reset Progress**. You can reset verbs only, nouns only, or everything at once. Your word-selection filters are kept.
+    In the app, go to **Settings → Data → Reset Progress**. You can reset verbs only, nouns only, or everything at once. Your word-selection filters are kept.
 
 ??? question "How do I send feedback or report a bug?"
     The fastest way is to **shake your device** from anywhere inside the app. A pre-filled email compose sheet opens immediately with a screenshot of the current screen attached. Describe what you saw and send.
@@ -63,7 +67,7 @@ We love hearing from users. If you have a feature idea or general feedback:
 
 You can also leave a review on the App Store — it helps more learners discover Spanish Coach.
 
-<a class="app-store-badge" href="https://apps.apple.com/app/6764284291?action=write-review"><img src="../assets/images/app-store-rate-badge.svg" alt="Rate on the App Store"></a>
+<a class="app-store-badge" href="https://apps.apple.com/app/6764284291?action=write-review"><img src="../assets/images/app-store-rate-badge.svg" alt="Rate on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
 
 ---
 

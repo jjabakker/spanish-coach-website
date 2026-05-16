@@ -7,6 +7,7 @@ Welcome to the Spanish Coach User Guide. Use the navigation on the left to explo
 ## What's in this guide
 
 - **[Spanish Coach (Main Screen)](spanish-coach/)** — Your starting point. A quick tour of the home screen and how to navigate the app.
+- **[Settings](settings/)** — Global app preferences: interface language, native language, speech, session size, dictionary services, and data management.
 - **[Self Study](self-study/)** — Choose what to study: Verbs, Nouns, Words & Phrases.
 - **[Verbs Coach](verbs/)** — Deep-dive into Spanish verbs with dedicated setup, study, and test modes.
 - **[Nouns Coach](nouns/)** — Practise gender, plurals, and alternate-gender pairs.

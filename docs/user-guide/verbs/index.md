@@ -3,7 +3,7 @@
 The Verbs Coach screen is your control centre for verb practice. It's divided into three sections: **Setup**, **Study**, and **Test**.
 
 <div class="screenshot-annotated">
-<img src="../../screenshots/Verbs Coach.png" alt="Verbs Coach Screen">
+<img src="../../screenshots/verbs-coach.png" alt="Verbs Coach Screen" width="1320" height="2868" loading="lazy" decoding="async">
 </div>
 
 1. **Help** — tap the :material-help-circle: icon for a quick explanation of each test type

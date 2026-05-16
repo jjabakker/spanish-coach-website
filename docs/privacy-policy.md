@@ -1,3 +1,7 @@
+---
+description: Spanish Coach privacy policy — local-first app, no accounts, no analytics, no cloud sync. Your study data stays on your device.
+---
+
 # Privacy Policy
 
 **Last updated: May 15, 2026**
@@ -54,7 +58,7 @@ We do not share any of your data with third parties, because there is no data on
 
 ## Data retention and deletion
 
-Your study data lives on your device until you delete it. You can reset your progress at any time from inside the App, in **Preferences → Data → Reset Progress** — you can reset Verbs only, Nouns only, or everything at once. Uninstalling the App removes all of its local data from your device.
+Your study data lives on your device until you delete it. You can reset your progress at any time from inside the App, in **Settings → Data → Reset Progress** — you can reset Verbs only, Nouns only, or everything at once. Uninstalling the App removes all of its local data from your device.
 
 ---
 

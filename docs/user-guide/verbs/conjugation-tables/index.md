@@ -5,25 +5,25 @@ The Conjugation Tables browser lets you look up the full conjugation of any verb
 <div class="screenshot-gallery">
 
 <div class="screenshot-item">
-<img src="../../../screenshots/Conjugation Tables.png" alt="Conjugation Tables – Verb List">
+<img src="../../../screenshots/conjugation-tables.png" alt="Conjugation Tables – Verb List" width="1320" height="2868" loading="lazy" decoding="async">
 <strong>Verb list</strong>
 <p>Search and alphabetical index. Tap a verb to open its table.</p>
 </div>
 
 <div class="screenshot-item">
-<img src="../../../screenshots/Conjugation Tables - Tener.png" alt="Conjugation Tables – Tener">
+<img src="../../../screenshots/conjugation-tables-tener.png" alt="Conjugation Tables – Tener" width="1320" height="2868" loading="lazy" decoding="async">
 <strong>Full table</strong>
 <p>All tenses for one verb, each as a collapsible section.</p>
 </div>
 
 <div class="screenshot-item">
-<img src="../../../screenshots/Conjugation Tables - Tener - Presente.png" alt="Conjugation Tables – Presente">
+<img src="../../../screenshots/conjugation-tables-tener-presente.png" alt="Conjugation Tables – Presente" width="1320" height="2868" loading="lazy" decoding="async">
 <strong>Tense detail</strong>
 <p>One tense expanded — pronouns and conjugated forms side by side.</p>
 </div>
 
 <div class="screenshot-item">
-<img src="../../../screenshots/Conjugation Table - Tenere - Presente - Stem Change .png" alt="Conjugation – Stem Change">
+<img src="../../../screenshots/conjugation-table-stem-change.png" alt="Conjugation – Stem Change" width="1320" height="2868" loading="lazy" decoding="async">
 <strong>Colour coding</strong>
 <p>Irregular forms marked in red so you can see exactly what deviates.</p>
 </div>

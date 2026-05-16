@@ -1,6 +1,6 @@
 # Spanish Coach — App Website
 
-This is the source for the [Spanish Coach](https://YOUR-GITHUB-USERNAME.github.io/spanish-coach-website/) website, built with [MkDocs](https://www.mkdocs.org) and the [Material theme](https://squidfunk.github.io/mkdocs-material/).
+This is the source for the [Spanish Coach](https://jjabakker.github.io/spanish-coach-website/) website, built with [MkDocs](https://www.mkdocs.org) and the [Material theme](https://squidfunk.github.io/mkdocs-material/).
 
 ---
 
@@ -15,7 +15,7 @@ This is the source for the [Spanish Coach](https://YOUR-GITHUB-USERNAME.github.i
 
 ### Step 2 — Update your details in mkdocs.yml
 
-Open `mkdocs.yml` and replace every `YOUR-GITHUB-USERNAME` placeholder with your actual GitHub username, and `YOUR-APP-ID` with your App Store app ID.
+Open `mkdocs.yml` and replace every `jjabakker` placeholder with your actual GitHub username, and `6764284291` with your App Store app ID.
 
 ### Step 3 — Push the project to GitHub
 
@@ -25,7 +25,7 @@ git init
 git add .
 git commit -m "Initial website"
 git branch -M main
-git remote add origin https://github.com/YOUR-GITHUB-USERNAME/spanish-coach-website.git
+git remote add origin https://github.com/jjabakker/spanish-coach-website.git
 git push -u origin main
 ```
 
@@ -39,7 +39,7 @@ git push -u origin main
 The GitHub Actions workflow will automatically build and deploy the site every time you push to `main`. Your site will be live at:
 
 ```
-https://YOUR-GITHUB-USERNAME.github.io/spanish-coach-website/
+https://jjabakker.github.io/spanish-coach-website/
 ```
 
 ---

@@ -1,3 +1,7 @@
+---
+description: Frequently asked questions about Spanish Coach — price and trial, supported devices, where data is stored, voices, dictionary lookups, and colour coding.
+---
+
 # Frequently Asked Questions
 
 ---
@@ -10,7 +14,7 @@ A focused practice environment for Spanish **verb conjugation**, **noun vocabula
 
 **Is Spanish Coach free?**
 
-Spanish Coach is free to download from the App Store. Some features are available via in-app purchase — exact pricing is being finalised.
+Spanish Coach is **free to download** from the App Store and **free to use for 14 days** — full access, no restrictions, no card required. After the trial, a single **one-time purchase of €14.99** unlocks the app for good. No subscriptions, no renewals, no ads. The price is per Apple ID, so it covers iPhone and iPad together if both are signed in to the same account.
 
 **What devices does Spanish Coach support?**
 
@@ -46,7 +50,7 @@ Inside the app's local sandbox on your device, in a SQLite database. Nothing is 
 
 **How do I reset my progress?**
 
-In the app, go to **Preferences → Data → Reset Progress**. You can reset verbs only, nouns only, or everything at once. Your word selection filters are not affected.
+In the app, go to **Settings → Data → Reset Progress**. You can reset verbs only, nouns only, or everything at once. Your word selection filters are not affected.
 
 ---
 
@@ -74,7 +78,7 @@ Yes. Every verb and noun detail view has a **Topics** row with a **+** button �
 
 **What is the Look up row on a verb or noun?**
 
-A row of chip buttons that opens four well-known online Spanish dictionaries — **Linguee**, **WordReference**, **Reverso**, and **RAE** — in an in-app Safari sheet, so you don't leave Spanish Coach. Useful when you want a fuller definition or extra example sentences. All four are free and need no account. You can switch any of them off in **Preferences → Dictionary Services**. Keep all four on at first; once you know which ones you actually use, switch off the rest to keep the row tidy. If you turn them all off the row disappears.
+A row of chip buttons that opens four well-known online Spanish dictionaries — **Linguee**, **WordReference**, **Reverso**, and **RAE** — in an in-app Safari sheet, so you don't leave Spanish Coach. Useful when you want a fuller definition or extra example sentences. All four are free and need no account. You can switch any of them off in **Settings → Dictionary Services**. Keep all four on at first; once you know which ones you actually use, switch off the rest to keep the row tidy. If you turn them all off the row disappears.
 
 **Why is part of a verb form shown in red or blue?**
 
@@ -94,7 +98,7 @@ iOS ships with Standard Spanish voices by default. They sound mechanical. Downlo
 
 **Can I slow the speech down?**
 
-Yes — there's a Speed slider in **Speech preferences** inside the app.
+Yes — there's a Speed slider in **Settings → Speech** inside the app.
 
 ---
 

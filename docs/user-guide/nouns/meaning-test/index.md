@@ -32,7 +32,13 @@ Use the direction selector at the top of the screen to choose how cards are pres
 
 ## Audio
 
-A **speaker icon** on each card lets you hear the noun spoken aloud at any time. iOS uses the Spanish voice you've selected in **Speech preferences** — install an Enhanced or Premium voice for natural-sounding audio.
+A **speaker icon** on each card lets you hear the noun spoken aloud at any time. iOS uses the Spanish voice you've selected in **Settings → Speech** — install an Enhanced or Premium voice for natural-sounding audio.
+
+---
+
+## Stuck on a card?
+
+Tap the noun itself (rather than the **Show** button) to open its detail view. You'll see its plural form, topic tags, any gender-trap notes, and an **Examples card** with three Spanish sentences plus translations — useful when the translation alone isn't enough and you want to see the noun in context. Close the detail view and the test resumes where it was.
 
 ---
 

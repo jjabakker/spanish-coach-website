@@ -41,6 +41,7 @@ nav:
     - FAQ: documentation/faq.md
   - User Guide:
     - Main Screen: user-guide/spanish-coach/index.md
+    - Settings: user-guide/settings/index.md
     - Self Study: user-guide/self-study/index.md
     - Verbs:
       - user-guide/verbs/index.md
@@ -84,6 +85,10 @@ extra:
 
 plugins:
   - search
+  - social:
+      cards_layout_options:
+        background_color: "#efe4cf"
+        color: "#3a3128"
 
 markdown_extensions:
   - admonition

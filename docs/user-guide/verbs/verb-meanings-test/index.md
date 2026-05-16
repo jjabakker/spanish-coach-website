@@ -5,7 +5,7 @@ The Word Meanings flashcard test presents Spanish verbs (or their English transl
 ---
 
 <div class="screenshot-annotated">
-<img src="../../../screenshots/Verb Meanigs.png" alt="Word Meanings Flashcard">
+<img src="../../../screenshots/verb-meanings.png" alt="Word Meanings Flashcard" width="1320" height="2868" loading="lazy" decoding="async">
 </div>
 
 1. **Direction picker** — choose how cards are presented:
@@ -17,6 +17,9 @@ The Word Meanings flashcard test presents Spanish verbs (or their English transl
 4. **Book icon** — tap to open the full conjugation table for this verb without leaving the test
 5. **Speaker icon** — tap to hear the Spanish verb (or answer) pronounced
 6. **"Tap to reveal"** — the card does not flip automatically; tap it to see the answer
+
+!!! tip "Need context, not just translation?"
+    Tap the verb (the bold word, not the card body) to open its detail view — gerundio, participio, level/frequency/topic chips, and an **Examples card** with three Spanish sentences plus translations. Helpful when you can't quite recall the meaning and want a usage hint before flipping the card.
 
 ### After flipping
 

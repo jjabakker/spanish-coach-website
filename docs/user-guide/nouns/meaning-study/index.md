@@ -13,7 +13,7 @@ A searchable list of every noun in your current selection, showing:
 - A small badge for the CEFR level
 - A speaker icon — tap to hear the noun spoken aloud
 
-Tap any noun to open its detail view, where you can see additional information including the plural form, the topic tags, and, where relevant, a note explaining a tricky gender or an alternate-gender pair.
+Tap any noun to open its detail view, where you can see additional information including the plural form, the topic tags, and, where relevant, a note explaining a tricky gender or an alternate-gender pair. The detail view also includes an **Examples card** with three Spanish sentences plus translations in your selected display language — useful for seeing the noun used in context rather than as an isolated word.
 
 ---
 

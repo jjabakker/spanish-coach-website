@@ -5,7 +5,7 @@ The Indefinido drill focuses on the simple past tense — specifically the **yo*
 ---
 
 <div class="screenshot-annotated">
-<img src="../../../screenshots/Recall the Indefinido.png" alt="Indefinido Drill">
+<img src="../../../screenshots/recall-indefinido.png" alt="Indefinido Drill" width="1320" height="2868" loading="lazy" decoding="async">
 </div>
 
 1. **Progress bar** — advances card by card; the counter shows your position

@@ -7,7 +7,7 @@ The Conjugation Drill presents a verb, tense, and person and asks you to produce
 ## Type mode
 
 <div class="screenshot-annotated">
-<img src="../../../screenshots/Type the Conjugation - Type.png" alt="Conjugation Drill – Type">
+<img src="../../../screenshots/type-conjugation-type.png" alt="Conjugation Drill – Type" width="1320" height="2868" loading="lazy" decoding="async">
 </div>
 
 1. **Progress bar** — green fill shows your correct-answer ratio for this session
@@ -25,7 +25,7 @@ After tapping Check, the app colours your input green (correct) or red (incorrec
 ## Pick mode
 
 <div class="screenshot-annotated">
-<img src="../../../screenshots/Type the Conjugation - Pick.png" alt="Conjugation Drill – Pick">
+<img src="../../../screenshots/type-conjugation-pick.png" alt="Conjugation Drill – Pick" width="1320" height="2868" loading="lazy" decoding="async">
 </div>
 
 1. **Type / Pick picker** — Pick mode is now active

@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+description: Spanish Coach is a focused drill app for Spanish verb conjugation, noun gender and plurals, and everyday vocabulary — with adaptive sessions that prioritise the words you find hardest. iPhone and iPad.
 ---
 
 # Spanish Coach
@@ -13,7 +14,7 @@ Spanish Coach is a focused practice environment for Spanish **verb conjugation**
 
 It is **not** a natural-immersion app or a full language course. It is the structured, grammar-first drill tool you reach for when you want to actually master what you've been taught elsewhere.
 
-<a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store"></a>
+<a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>
 
 <p class="hero-aside"><a href="screenshots/">or browse the screenshots first →</a></p>
 
@@ -71,6 +72,6 @@ Spanish Coach offers two ways to work.
 
 ## Get Started
 
-Spanish Coach is available on the App Store for iPhone and iPad. Free to download with optional in-app purchases.
+Spanish Coach is available on the App Store for iPhone and iPad. Free to download and free to use for 14 days — then a one-time €14.99 purchase unlocks it for good. No subscriptions.
 
-<a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store"></a>
+<a class="app-store-badge" href="https://apps.apple.com/app/6764284291"><img src="assets/images/app-store-badge.svg" alt="Download on the App Store" width="179" height="59" loading="lazy" decoding="async"></a>

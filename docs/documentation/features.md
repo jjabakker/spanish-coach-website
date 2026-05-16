@@ -1,3 +1,7 @@
+---
+description: Spanish Coach features — verb conjugation tables with irregular-form colour coding, six test types for verbs, noun gender and plural drills, Words & Phrases, and adaptive sessions.
+---
+
 # Features
 
 Spanish Coach is a focused practice environment for three areas of the language: **verbs**, **nouns**, and **everyday words & phrases**. Every feature is designed around the same idea — make the rules of Spanish explicit, then drill them until they are automatic.
@@ -71,15 +75,23 @@ A speed slider in the app lets you slow speech down for listening practice.
 
 ---
 
+## Example sentences
+
+Every verb and noun in the app comes with **three Spanish example sentences** — about 5,000 sentences in total across the full vocabulary — each with translations into both English and Dutch. Open any verb or noun's detail view and the Examples card shows the sentences as one prominent Spanish line per example, with the translation in your selected display language underneath.
+
+The sentences are picked to illustrate typical, everyday usage rather than to be encyclopedic. A noun like *abrigo* (coat) gets sentences about buying one, packing one, or the weather; a verb like *abrirse* shows literal openings, figurative ones, and a reflexive idiom. The goal is to reinforce meaning in context — handy when a one-word translation feels too thin.
+
+---
+
 ## External dictionary lookups
 
 Every verb and noun detail view has a **Look up** row with chip buttons for four well-known online Spanish dictionaries: **Linguee**, **WordReference**, **Reverso**, and **RAE** (the Real Academia Española). Tap a chip and the lookup opens in an in-app Safari sheet — you don't leave Spanish Coach. Useful when you want a fuller definition, real-world example sentences, or contextual translations.
 
-You decide which services appear in the row. The toggles live in **Preferences → Dictionary Services**. All four are enabled by default — there's no cost or sign-up for any of these sites, so it's worth keeping them all on while you find your favourites. Later, once you know which one or two you actually reach for, you can switch off the rest to keep the row compact. If you disable all four, the Look up row hides entirely.
+You decide which services appear in the row. The toggles live in **Settings → Dictionary Services**. All four are enabled by default — there's no cost or sign-up for any of these sites, so it's worth keeping them all on while you find your favourites. Later, once you know which one or two you actually reach for, you can switch off the rest to keep the row compact. If you disable all four, the Look up row hides entirely.
 
 ---
 
-## Preferences
+## Settings
 
 A few settings let you tune how the app fits your study habit:
 
@@ -91,7 +103,7 @@ A few settings let you tune how the app fits your study habit:
 - **Speech** — pick a Spanish voice and adjust the speaking speed.
 - **Dictionary Services** — choose which of Linguee, WordReference, Reverso, and RAE appear in the Look up row on verb and noun detail views. All four are free; keep them all on initially and prune later.
 
-You can reset your study history from **Preferences → Data → Reset Progress** — verbs only, nouns only, or everything at once. Your word-selection filters are not affected.
+You can reset your study history from **Settings → Data → Reset Progress** — verbs only, nouns only, or everything at once. Your word-selection filters are not affected.
 
 ---
 
@@ -103,6 +115,6 @@ Spanish Coach stores everything locally on your device. There is no account, no 
 
 ## Pricing
 
-> **TODO:** Confirm and document the actual in-app-purchase tiers before publishing this page. The earlier draft listed prices that have not been verified against the real StoreKit configuration.
+Spanish Coach is **free to download** from the App Store and **free to use for 14 days** — full access, no restrictions, no card required up front. After the trial, a single **one-time purchase of €14.99** unlocks the app for good. No subscriptions, no renewals, no ads, no in-app upsells.
 
-Spanish Coach is free to download from the App Store. Some features are available via in-app purchase — exact pricing to be confirmed.
+The price is per Apple ID, so it covers your iPhone and iPad together if both are signed in to the same account. Currency and exact amount may vary slightly by App Store region — the App Store listing is the source of truth for your country.

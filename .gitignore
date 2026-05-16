@@ -5,6 +5,9 @@
 # MkDocs build output
 site/
 
+# MkDocs Material plugin caches (social cards, etc.)
+.cache/
+
 # Python
 __pycache__/
 *.pyc

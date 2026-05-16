@@ -8,13 +8,13 @@ Spanish Coach includes nearly 800 Spanish verbs. The Select Verbs screen lets yo
 <div class="screenshot-gallery">
 
 <div class="screenshot-item">
-<img src="../../../screenshots/Select Verbs - Criteria.png" alt="Select Verbs — Criteria tab">
+<img src="../../../screenshots/select-verbs-criteria.png" alt="Select Verbs — Criteria tab" width="1320" height="2868" loading="lazy" decoding="async">
 <strong>Criteria tab</strong>
 <p>Filter by CEFR level, frequency, and topic.</p>
 </div>
 
 <div class="screenshot-item">
-<img src="../../../screenshots/Select Verbs - Verb Groups.png" alt="Select Verbs — Verb Groups tab">
+<img src="../../../screenshots/select-verbs-groups.png" alt="Select Verbs — Verb Groups tab" width="1320" height="2868" loading="lazy" decoding="async">
 <strong>Verb Groups tab</strong>
 <p>Filter by grammatical category — regular, stem-changing, etc.</p>
 </div>
@@ -71,7 +71,7 @@ Each verb group category contains two or more verb groups. You can include or ex
 ## Verb list
 
 <div class="screenshot-annotated">
-<img src="../../../screenshots/Select Verbs - Overview of selected verbs.png" alt="Select Verbs — Overview">
+<img src="../../../screenshots/select-verbs-selected.png" alt="Select Verbs — Overview" width="1320" height="2868" loading="lazy" decoding="async">
 </div>
 
 The resulting set of verbs meets all the criteria just specified. The 'Selected Verbs' row displays how many verbs are selected. By tapping it the final selected list of verbs is displayed. If you have been too selective and the resulting set of verbs is empty, the system issues a warning when you attempt to leave the screen.
