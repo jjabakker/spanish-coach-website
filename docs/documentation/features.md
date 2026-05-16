@@ -71,6 +71,14 @@ A speed slider in the app lets you slow speech down for listening practice.
 
 ---
 
+## External dictionary lookups
+
+Every verb and noun detail view has a **Look up** row with chip buttons for four well-known online Spanish dictionaries: **Linguee**, **WordReference**, **Reverso**, and **RAE** (the Real Academia Española). Tap a chip and the lookup opens in an in-app Safari sheet — you don't leave Spanish Coach. Useful when you want a fuller definition, real-world example sentences, or contextual translations.
+
+You decide which services appear in the row. The toggles live in **Preferences → Dictionary Services**. All four are enabled by default — there's no cost or sign-up for any of these sites, so it's worth keeping them all on while you find your favourites. Later, once you know which one or two you actually reach for, you can switch off the rest to keep the row compact. If you disable all four, the Look up row hides entirely.
+
+---
+
 ## Preferences
 
 A few settings let you tune how the app fits your study habit:
@@ -81,6 +89,7 @@ A few settings let you tune how the app fits your study habit:
 - **Learning Pace** — *Relaxed*, *Balanced*, or *Intensive*. Biases the balance between new vocabulary and review.
 - **Auto-advance** — when on, a correct answer moves to the next card after a short pause.
 - **Speech** — pick a Spanish voice and adjust the speaking speed.
+- **Dictionary Services** — choose which of Linguee, WordReference, Reverso, and RAE appear in the Look up row on verb and noun detail views. All four are free; keep them all on initially and prune later.
 
 You can reset your study history from **Preferences → Data → Reset Progress** — verbs only, nouns only, or everything at once. Your word-selection filters are not affected.
 

@@ -72,6 +72,10 @@ Your **word pool** is the full set of words eligible to appear in sessions (defi
 
 Yes. Every verb and noun detail view has a **Topics** row with a **+** button — tap it to add a personal topic (e.g. *exam*, *tricky*, *kitchen*). Your topics live alongside the bundled ones (food, travel, work, …) in the same Topic filter on the Select screens, marked with a small person icon so you can still tell them apart. They're stored locally on your device and persist across app updates.
 
+**What is the Look up row on a verb or noun?**
+
+A row of chip buttons that opens four well-known online Spanish dictionaries — **Linguee**, **WordReference**, **Reverso**, and **RAE** — in an in-app Safari sheet, so you don't leave Spanish Coach. Useful when you want a fuller definition or extra example sentences. All four are free and need no account. You can switch any of them off in **Preferences → Dictionary Services**. Keep all four on at first; once you know which ones you actually use, switch off the rest to keep the row tidy. If you turn them all off the row disappears.
+
 **Why is part of a verb form shown in red or blue?**
 
 In conjugation tables, irregular forms are colour-coded. A **partial red** highlight marks the part of a form that deviates from the regular pattern (a stem change, an irregular yo form, etc.). A **fully red** form is completely irregular and must be memorised whole — strong preterite verbs are shown this way too. See the [Verbs Coach page](../user-guide/verbs/) in the User Guide for the full key.
