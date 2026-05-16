@@ -1,0 +1,411 @@
+/* ============================================
+   Spanish Coach — MkDocs Extra Styles
+   ============================================ */
+:root {
+  --md-default-bg-color: #f7f2e8;
+  --md-default-fg-color: #332b22;
+
+  --md-primary-fg-color: #efe4cf;
+  --md-primary-fg-color--light: #f6edde;
+  --md-primary-fg-color--dark: #dcc6a0;
+
+  --md-accent-fg-color: #c07a12;
+}
+
+
+.md-main {
+  background: #f7f2e8;
+}
+
+.md-content {
+  background: transparent;
+}
+
+
+/* ---------- Hero Section ---------- */
+.hero-section {
+  background: linear-gradient(135deg, #ead7b1 0%, #f5ebd7 100%);
+  border-radius: 12px;
+  padding: 1.75rem 2.25rem;
+  margin: 1.5rem 0 2rem;
+  color: #3a3128;
+  text-align: center;
+}
+
+.hero-section h2 {
+  color: #3a3128 !important;
+  font-size: 1.4rem;
+  line-height: 1.25;
+  margin-bottom: 0.5rem;
+}
+
+.hero-section p {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  opacity: 0.92;
+  max-width: none;
+  margin: 0 0 0.8rem;
+}
+
+/* ---------- Warm desert navigation ---------- */
+
+.md-header {
+  background: #f3eadb !important;
+  box-shadow: 0 1px 0 rgba(180, 140, 70, 0.12);
+}
+
+.md-header,
+.md-header * {
+  color: #5c4630 !important;
+}
+
+/* Make the logo and site title in the header bigger and visually paired */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 40px;
+  width: 40px;
+}
+
+.md-header__title {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-left: 0.25rem;
+}
+
+/* When JS wraps the title text in a link, make it look like inherited text
+   (no underline, same colour) but with a subtle hover affordance. */
+.md-header__title a.md-header__title-link {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.md-header__title a.md-header__title-link:hover {
+  opacity: 0.75;
+}
+
+.md-tabs {
+  background: #f6efe3 !important;
+}
+
+.md-search__form {
+  background-color: rgba(255,255,255,0.82) !important;
+  border: 1px solid rgba(180,140,70,0.15);
+  border-radius: 10px;
+}
+
+.md-sidebar--primary {
+  border-right: 1px solid rgba(190,150,90,0.12);
+}
+
+/* Hide the redundant boxed site title at the top of the primary sidebar on desktop.
+   The same name is already in the header bar. Keep it visible on mobile so the
+   drawer still has a useful label. */
+@media screen and (min-width: 60em) {
+  .md-sidebar--primary .md-nav--primary > .md-nav__title {
+    display: none;
+  }
+}
+
+/* On pages tagged via JS as not wanting an integrated TOC (Home, Screenshots),
+   hide the secondary nav that toc.integrate inserts under the active entry. */
+body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > nav.md-nav,
+body.hide-integrated-toc .md-sidebar--primary .md-nav__item--active > .md-nav {
+  display: none;
+}
+
+.md-sidebar--secondary {
+  border-left: 1px solid rgba(190,150,90,0.12);
+}
+
+.md-nav__link--active,
+.md-tabs__link--active {
+  color: #c07a12 !important;
+  font-weight: 600;
+}
+
+.md-typeset a {
+  color: #b67d1f;
+}
+
+.md-typeset a:hover {
+  color: #d29a34;
+}
+
+/* ---------- Video Embed ---------- */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 ratio */
+  height: 0;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);
+  margin: 1.5rem 0 2rem;
+  background: #000;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+}
+
+/* ---------- Features Grid ---------- */
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 800px) {
+  .features-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.feature-card {
+  background: rgba(255,255,255,0.55);
+  backdrop-filter: blur(4px);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  border-left: 4px solid #c89b6d;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+.feature-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #3a3128;
+}
+
+.feature-card p {
+  margin-bottom: 0;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  opacity: 0.85;
+}
+
+/* ---------- Screenshot Gallery ---------- */
+.screenshot-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem;
+  align-items: start;
+}
+
+.screenshot-item {
+  text-align: center;
+}
+
+.screenshot-item img {
+  width: 100%;
+  max-width: 260px;
+  border-radius: 20px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.20);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  display: block;
+  margin: 0 auto 0.75rem;
+}
+
+.screenshot-item strong {
+  display: block;
+  font-size: 0.95rem;
+  margin-bottom: 0.35rem;
+  color: var(--md-primary-fg-color);
+}
+
+.screenshot-item p {
+  font-size: 0.85rem;
+  opacity: 0.75;
+  margin: 0;
+}
+
+/* ---------- Buttons ---------- */
+.md-button {
+  border-radius: 8px !important;
+  font-weight: 600 !important;
+  padding: 0.6rem 1.4rem !important;
+  margin: 0.25rem 0.25rem !important;
+  transition: transform 0.15s ease !important;
+}
+
+.md-button:hover {
+  transform: translateY(-1px);
+}
+
+/* ---------- App Store badge + matching secondary CTA ---------- */
+.app-store-badge,
+.hero-cta-secondary {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0.25rem 0.35rem;
+  transition: transform 0.15s ease, filter 0.15s ease, background 0.15s ease;
+}
+
+.app-store-badge img {
+  height: 50px;
+  width: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+.app-store-badge:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.08);
+}
+
+.hero-aside {
+  margin: 0.5rem 0 0 !important;
+  font-size: 0.78rem;
+  opacity: 0.7;
+}
+
+.hero-aside a {
+  color: #3a3128 !important;
+  text-decoration: none;
+}
+
+.hero-aside a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+/* ---------- Annotated Screenshots (User Guide) ----------
+   On wide screens the iPhone screenshot floats to the right and the
+   surrounding text flows around it. Narrow screens fall back to the
+   stacked layout. h2 and hr clear the float so sections start fresh. */
+.screenshot-annotated {
+  float: right;
+  clear: right;
+  margin: 0.25rem 0 1rem 1.75rem;
+  max-width: 260px;
+}
+
+.screenshot-annotated img {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 20px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.20);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  display: block;
+}
+
+/* Section breaks should clear the screenshot float, so each new section
+   doesn't visually run into the previous one's image. */
+.md-content article h2,
+.md-content article hr {
+  clear: both;
+}
+
+@media (max-width: 800px) {
+  .screenshot-annotated {
+    float: none;
+    margin: 1.5rem auto;
+    max-width: 320px;
+    text-align: center;
+  }
+}
+
+/* ---------- Expand all button ---------- */
+#nav-expand-btn {
+  background: none;
+  border: 1px solid var(--md-primary-fg-color);
+  color: var(--md-primary-fg-color);
+  border-radius: 4px;
+  font-size: 0.7rem;
+  padding: 2px 8px;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+#nav-expand-btn:hover {
+  opacity: 1;
+}
+
+/* ---------- Navigation indentation ---------- */
+/* Uniform 0.4rem step at every nesting level */
+.md-nav__item .md-nav .md-nav__item {
+  padding-left: 0.4rem;
+}
+.md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item {
+  padding-left: 0.4rem;
+}
+.md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item {
+  padding-left: 0.4rem;
+}
+.md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item .md-nav .md-nav__item {
+  padding-left: 0.4rem;
+}
+
+/* Give nested expandable nav groups (like Verbs / Nouns / Words & Phrases
+   under User Guide) the same vertical depth-line treatment that Material
+   gives the integrated table of contents. */
+.md-sidebar--primary .md-nav__item--nested > .md-nav {
+  border-left: 1px solid rgba(190, 150, 90, 0.35);
+  padding-left: 0.6rem;
+  margin-left: 0.5rem;
+}
+
+/* Admonitions ("!!! tip", "!!! note", etc.) sit centered with a comfortable
+   margin on each side, rather than stretching the full content width. */
+.md-typeset .admonition,
+.md-typeset details {
+  max-width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Tables — drop the heavy white-box look and let them blend into the cream
+   theme with soft warm borders. */
+.md-typeset table:not([class]) {
+  background: transparent;
+  border: 1px solid rgba(190, 150, 90, 0.25);
+  box-shadow: none;
+  border-collapse: collapse;
+}
+
+.md-typeset table:not([class]) th {
+  background: rgba(190, 150, 90, 0.10);
+  color: #3a3128;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(190, 150, 90, 0.25);
+}
+
+.md-typeset table:not([class]) td {
+  background: transparent;
+  border-top: 1px solid rgba(190, 150, 90, 0.15);
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background: rgba(255, 255, 255, 0.35);
+}
+
+/* ---------- Responsive ---------- */
+.md-grid {
+  max-width: 1500px;
+}
+@media (max-width: 600px) {
+  .hero-section h2 {
+    font-size: 1.6rem;
+  }
+
+  .features-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .screenshot-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
